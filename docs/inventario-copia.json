@@ -1,0 +1,2277 @@
+[
+  {
+    "origen": "/home/rolando/projects/dotfiles/cliphist/.config/cliphist/config",
+    "destino": "dotfiles/cliphist/.config/cliphist/config",
+    "sha256_origen": "8638d9fe275483d0f105cb9c0c8731df3b943a41a991a20a4c3cc5b118492f37",
+    "sha256_copia": "8638d9fe275483d0f105cb9c0c8731df3b943a41a991a20a4c3cc5b118492f37",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/eww.scss",
+    "destino": "dotfiles/eww/.config/eww/eww.scss",
+    "sha256_origen": "13c101de22ce264d12dc59402931f0bfa3e0006cd81281426fda37129f3c5e78",
+    "sha256_copia": "13c101de22ce264d12dc59402931f0bfa3e0006cd81281426fda37129f3c5e78",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/eww.yuck",
+    "destino": "dotfiles/eww/.config/eww/eww.yuck",
+    "sha256_origen": "98bbefac4c83e185d09e74a9d46567cb63e457dc8596b257d3420955ec96e218",
+    "sha256_copia": "aee3f5b779bc9a36d42aff4258b4ac49cdc06300a1460f46ca42cef309cd4e8d",
+    "adaptacion": "Nombre de usuario leído mediante id -un."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/cava-mpris.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/cava-mpris.sh",
+    "sha256_origen": "0e1209d6d1dfd58f3727763c6919d727238b6c98cfd6a20d0c4e8d9d581e4e65",
+    "sha256_copia": "0e1209d6d1dfd58f3727763c6919d727238b6c98cfd6a20d0c4e8d9d581e4e65",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/gpu-stat.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/gpu-stat.sh",
+    "sha256_origen": "c97d137342fe9bbb6b71a40e4af2c7ba144e82c5346f646eab205b3101e0766e",
+    "sha256_copia": "c97d137342fe9bbb6b71a40e4af2c7ba144e82c5346f646eab205b3101e0766e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/lyrics-fetch.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/lyrics-fetch.sh",
+    "sha256_origen": "175942635d334d776516060892b96cc5b5092ef82f5b6f4aab1cba3a6a6a56f6",
+    "sha256_copia": "175942635d334d776516060892b96cc5b5092ef82f5b6f4aab1cba3a6a6a56f6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/media-meta.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/media-meta.sh",
+    "sha256_origen": "0904fdb29986db0efbbe7c31563ca41fee6833f576b2d56d8f198460606e539f",
+    "sha256_copia": "0904fdb29986db0efbbe7c31563ca41fee6833f576b2d56d8f198460606e539f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/media-tick.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/media-tick.sh",
+    "sha256_origen": "feefb682d5e9c75580a57a1757e966dfc8b86aea005c91dfa403273d9c7c117e",
+    "sha256_copia": "feefb682d5e9c75580a57a1757e966dfc8b86aea005c91dfa403273d9c7c117e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/mpris-art.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/mpris-art.sh",
+    "sha256_origen": "2065428014b1f7d99ffcee84e57e7b0ed8fe52189b519a9cb7518ba7380d276e",
+    "sha256_copia": "2065428014b1f7d99ffcee84e57e7b0ed8fe52189b519a9cb7518ba7380d276e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/net-status.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/net-status.sh",
+    "sha256_origen": "98c9b15b315ceb4b86ae92d518e7b513266ec6a4065101ef84a459f9cfd4b2a9",
+    "sha256_copia": "98c9b15b315ceb4b86ae92d518e7b513266ec6a4065101ef84a459f9cfd4b2a9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/net-toggle.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/net-toggle.sh",
+    "sha256_origen": "7cb6ded327c0a2174f23bfdd4b714945bc8ec489cc4ec92f6ae31b4137e3acec",
+    "sha256_copia": "7cb6ded327c0a2174f23bfdd4b714945bc8ec489cc4ec92f6ae31b4137e3acec",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/uptime.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/uptime.sh",
+    "sha256_origen": "90dd6fc8e0f72195725b5c1a619580bb731f13c2539d2ad21a0df68b8f6a8ae7",
+    "sha256_copia": "90dd6fc8e0f72195725b5c1a619580bb731f13c2539d2ad21a0df68b8f6a8ae7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/eww/.config/eww/scripts/weather.sh",
+    "destino": "dotfiles/eww/.config/eww/scripts/weather.sh",
+    "sha256_origen": "b0b902f89611d78614cfaf21a874881da3867eba51acded350c91490353f20b4",
+    "sha256_copia": "b0b902f89611d78614cfaf21a874881da3867eba51acded350c91490353f20b4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/fastfetch/.config/fastfetch/config.jsonc",
+    "destino": "dotfiles/fastfetch/.config/fastfetch/config.jsonc",
+    "sha256_origen": "b780def5d409e7491d81408989f15b0a92aa2c0d3a2b6cf1794ef10c8dff1bde",
+    "sha256_copia": "b780def5d409e7491d81408989f15b0a92aa2c0d3a2b6cf1794ef10c8dff1bde",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/fastfetch/.config/fastfetch/logos/nixos_logo_1.png",
+    "destino": "dotfiles/fastfetch/.config/fastfetch/logos/nixos_logo_1.png",
+    "sha256_origen": "d63bc40abc7d11c1e2dcf81a3796a43b746a895d2f4f2f30d4b2097d87bce0d0",
+    "sha256_copia": "d63bc40abc7d11c1e2dcf81a3796a43b746a895d2f4f2f30d4b2097d87bce0d0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/foot/.config/foot/foot.ini",
+    "destino": "dotfiles/foot/.config/foot/foot.ini",
+    "sha256_origen": "b57c24acdf676cef54c4f15c643409fd944de46f7eee17eb6938969fc7111979",
+    "sha256_copia": "b57c24acdf676cef54c4f15c643409fd944de46f7eee17eb6938969fc7111979",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/.luarc.json",
+    "destino": "dotfiles/hypr/.config/hypr/.luarc.json",
+    "sha256_origen": "97fcd0dd91b8c8fb8692fdd6daf69b771bce012a457f570e808e7d8755eb8efd",
+    "sha256_copia": "97fcd0dd91b8c8fb8692fdd6daf69b771bce012a457f570e808e7d8755eb8efd",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/autostart.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/autostart.lua",
+    "sha256_origen": "2f39fe5e0cc0c02c22b1e3095b888ed7f8a78b5653d675109edef7d1841c4447",
+    "sha256_copia": "2f39fe5e0cc0c02c22b1e3095b888ed7f8a78b5653d675109edef7d1841c4447",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/binds.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/binds.lua",
+    "sha256_origen": "e4e27f64fa324df8e9f5fdf2e69b32b8da3c9a97449ebecd750e5fc23bf79f14",
+    "sha256_copia": "e4e27f64fa324df8e9f5fdf2e69b32b8da3c9a97449ebecd750e5fc23bf79f14",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/environments.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/environments.lua",
+    "sha256_origen": "2dd48930479acf74e531805925bf506e8e8ce30ab07d2f02c1ce6a0c2f84a97c",
+    "sha256_copia": "2dd48930479acf74e531805925bf506e8e8ce30ab07d2f02c1ce6a0c2f84a97c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/monitors.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/monitors.lua",
+    "sha256_origen": "8e54b0d01400e346d0c05b0ec576323e704db25ad1a8467f222aadd7e1271e61",
+    "sha256_copia": "ae76e1ea273d28e5bbb3e54dd01ab46d0319a43a56ece799663f09a8edf9be04",
+    "adaptacion": "Regla general de monitor; se retiraron las dos salidas fijas de Victus."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/rules.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/rules.lua",
+    "sha256_origen": "767069112d59cb1a62b16415777676034a82ddb7d6ddaf1163434fa4cfcb575b",
+    "sha256_copia": "767069112d59cb1a62b16415777676034a82ddb7d6ddaf1163434fa4cfcb575b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/settings.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/settings.lua",
+    "sha256_origen": "7c0d1806414a93254633bebccee42f9d22a4a45c2844175437f7c6b5f881abc7",
+    "sha256_copia": "7c0d1806414a93254633bebccee42f9d22a4a45c2844175437f7c6b5f881abc7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/configs/workspaces.lua",
+    "destino": "dotfiles/hypr/.config/hypr/configs/workspaces.lua",
+    "sha256_origen": "ecfb55479cb58251a326326fd86f41b33074e908c252c60ce536c17a55a98f65",
+    "sha256_copia": "ecfb55479cb58251a326326fd86f41b33074e908c252c60ce536c17a55a98f65",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/hypridle.conf",
+    "destino": "dotfiles/hypr/.config/hypr/hypridle.conf",
+    "sha256_origen": "0d0caa84898a7db742a4b1bc90404fb7ba1de773cf45c518de920908c24a255d",
+    "sha256_copia": "0d0caa84898a7db742a4b1bc90404fb7ba1de773cf45c518de920908c24a255d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/hyprland.lua",
+    "destino": "dotfiles/hypr/.config/hypr/hyprland.lua",
+    "sha256_origen": "6637f7e84b95936e85754431394abbc5276506a3a15e4afc7033095f99117ade",
+    "sha256_copia": "f590e9bfdbed2e94fc8e73b4531316760e4bc6e7525d9d1ff917a2a44c7d8abc",
+    "adaptacion": "Se excluyó únicamente la regla personal deadlocked_overlay."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/hyprlock.conf",
+    "destino": "dotfiles/hypr/.config/hypr/hyprlock.conf",
+    "sha256_origen": "56f7ccf64747de68c75659178c564d7bd1ee9aa89aba24e113d3f1038d557cae",
+    "sha256_copia": "56f7ccf64747de68c75659178c564d7bd1ee9aa89aba24e113d3f1038d557cae",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/hyprsunset.conf",
+    "destino": "dotfiles/hypr/.config/hypr/hyprsunset.conf",
+    "sha256_origen": "c95f56c2897000446a56a4a988c01e881d70a81d13bde3811a0d713c0aabf766",
+    "sha256_copia": "c95f56c2897000446a56a4a988c01e881d70a81d13bde3811a0d713c0aabf766",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/cliphist_fuzzel.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/cliphist_fuzzel.sh",
+    "sha256_origen": "59d462792eebd70a43ebe226902a473a7126905cd28e045d91875d9ef813ea56",
+    "sha256_copia": "59d462792eebd70a43ebe226902a473a7126905cd28e045d91875d9ef813ea56",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/hub-toggle.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/hub-toggle.sh",
+    "sha256_origen": "5991e60e5c47811a0aca6007ce0425abd6122400025e7c25ed976ba80a5205c2",
+    "sha256_copia": "5991e60e5c47811a0aca6007ce0425abd6122400025e7c25ed976ba80a5205c2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/keybinds-viewer.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/keybinds-viewer.sh",
+    "sha256_origen": "df5e7ca24fb693398a966e76a2af6b035b8e47f2343502d7dafd8f02a19cee28",
+    "sha256_copia": "df5e7ca24fb693398a966e76a2af6b035b8e47f2343502d7dafd8f02a19cee28",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/lock.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/lock.sh",
+    "sha256_origen": "13dafb661a6eeae76ae7a595e1e2a3fcc1fb22f9e81296b4dd85514f6563610b",
+    "sha256_copia": "13dafb661a6eeae76ae7a595e1e2a3fcc1fb22f9e81296b4dd85514f6563610b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/notify-layout.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/notify-layout.sh",
+    "sha256_origen": "427e994a58642bbe5f3bda7a269ae4cad7b5cb98a6232d94c51a40aef3210bc7",
+    "sha256_copia": "427e994a58642bbe5f3bda7a269ae4cad7b5cb98a6232d94c51a40aef3210bc7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/open-bt.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/open-bt.sh",
+    "sha256_origen": "f39fb4e78417c24b20afed1f5a5f3b25a8708d1285da93a03a49dae28b51e6c2",
+    "sha256_copia": "f39fb4e78417c24b20afed1f5a5f3b25a8708d1285da93a03a49dae28b51e6c2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/spotify-toggle.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/spotify-toggle.sh",
+    "sha256_origen": "5b4b5acf228c555ce705974cf7e5a0f3cb66edf5c5998df32937f0db81589d3d",
+    "sha256_copia": "5b4b5acf228c555ce705974cf7e5a0f3cb66edf5c5998df32937f0db81589d3d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/toggle-dnd.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/toggle-dnd.sh",
+    "sha256_origen": "8e1ab55a38d447daf23978232161939ab63731adada9fa283591236177dbbbaf",
+    "sha256_copia": "8e1ab55a38d447daf23978232161939ab63731adada9fa283591236177dbbbaf",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/toggle-nightlight.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/toggle-nightlight.sh",
+    "sha256_origen": "9b5fbd5d79aac2da925f2150fe748a5c4b67208bd3049d04fe86764ad973959b",
+    "sha256_copia": "9b5fbd5d79aac2da925f2150fe748a5c4b67208bd3049d04fe86764ad973959b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/toggle_float.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/toggle_float.sh",
+    "sha256_origen": "ff5567ef9c3b704cbd1cef8153424ca989a7fde800ef7e1a79d2fb976e9be9ab",
+    "sha256_copia": "ff5567ef9c3b704cbd1cef8153424ca989a7fde800ef7e1a79d2fb976e9be9ab",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/waybar-agenda.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/waybar-agenda.sh",
+    "sha256_origen": "c10ff3354aa74a4aa9b1ad3728c2b2442eabdc61156a2769acd4b5d341d3dafc",
+    "sha256_copia": "c10ff3354aa74a4aa9b1ad3728c2b2442eabdc61156a2769acd4b5d341d3dafc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/waybar-gamemode.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/waybar-gamemode.sh",
+    "sha256_origen": "ad74c886df3bc3b48cbde89f13fe3ba545a1a85ea10aea97b39a2d8928df3df5",
+    "sha256_copia": "39eeda6186fd0179c7884683285e5911a15ba8ba7a8f873d7da81a538802ec5a",
+    "adaptacion": "Control scx exclusivamente; sin k3s ni cifras personales."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/waybar-layout.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/waybar-layout.sh",
+    "sha256_origen": "f1c2a148aa24789668938f36bfe1b4a8483c1fc72a903a6d3e3f2a91c9784ec3",
+    "sha256_copia": "f1c2a148aa24789668938f36bfe1b4a8483c1fc72a903a6d3e3f2a91c9784ec3",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/scripts/waybar-nixos-status.sh",
+    "destino": "dotfiles/hypr/.config/hypr/scripts/waybar-nixos-status.sh",
+    "sha256_origen": "c0a6dc4f0ed7b32c0c2b595229ed6992e1006ca66636fa52619ecba2fa0d5f22",
+    "sha256_copia": "fd893957c90f58a9c396562619ed061cad7d919895aede6d36d64226f728e081",
+    "adaptacion": "Estados missing/error separados de clean/dirty; cuatro pruebas ejecutan el script real."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/hypr/.config/hypr/shaders/lock-vignette.glsl",
+    "destino": "dotfiles/hypr/.config/hypr/shaders/lock-vignette.glsl",
+    "sha256_origen": "c936b21989dfb4a568381c6720c7793b251f9b6d7ab7ea4daebd61b022e9dca3",
+    "sha256_copia": "c936b21989dfb4a568381c6720c7793b251f9b6d7ab7ea4daebd61b022e9dca3",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/khal/.config/khal/config",
+    "destino": "dotfiles/khal/.config/khal/config",
+    "sha256_origen": "ee17074fd325cfe4091408bddeac514cbcfbe8c2830861a758c49e6d56038627",
+    "sha256_copia": "ee17074fd325cfe4091408bddeac514cbcfbe8c2830861a758c49e6d56038627",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/mako/.config/mako/config",
+    "destino": "dotfiles/mako/.config/mako/config",
+    "sha256_origen": "f42650add1b4a5552a87eeff20a35c7faf799d5408dab8af43762e8fe721a38d",
+    "sha256_copia": "f42650add1b4a5552a87eeff20a35c7faf799d5408dab8af43762e8fe721a38d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/markdownlint/.markdownlintrc",
+    "destino": "dotfiles/markdownlint/.markdownlintrc",
+    "sha256_origen": "c0dbf05e4436e578d364d97521eacf5ef426b05a14edb3770ad36324e37452d1",
+    "sha256_copia": "c0dbf05e4436e578d364d97521eacf5ef426b05a14edb3770ad36324e37452d1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/.luarc.json",
+    "destino": "dotfiles/nvim/.config/nvim/.luarc.json",
+    "sha256_origen": "09fdeedd8b34d181c4a71c1d1f3827c4e44203a0f05edc2a51101d99d4bfd129",
+    "sha256_copia": "09fdeedd8b34d181c4a71c1d1f3827c4e44203a0f05edc2a51101d99d4bfd129",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/init.lua",
+    "destino": "dotfiles/nvim/.config/nvim/init.lua",
+    "sha256_origen": "ae6dc41f4508d276872a2356e6ecca7c454f04cdbe7210f30bc8072c6eff7839",
+    "sha256_copia": "ae6dc41f4508d276872a2356e6ecca7c454f04cdbe7210f30bc8072c6eff7839",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lazy-lock.json",
+    "destino": "dotfiles/nvim/.config/nvim/lazy-lock.json",
+    "sha256_origen": "b0dba5a2c4d63f20f8b8393280e838184c1220f374605ca443abe1fc702d9ff6",
+    "sha256_copia": "b0dba5a2c4d63f20f8b8393280e838184c1220f374605ca443abe1fc702d9ff6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/config/autocmds.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/config/autocmds.lua",
+    "sha256_origen": "7a52a60999dfe3c3b27f5c22799b2e67b06cf4c86ddd91af53c240bbd7ff6987",
+    "sha256_copia": "7a52a60999dfe3c3b27f5c22799b2e67b06cf4c86ddd91af53c240bbd7ff6987",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/config/keymaps.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/config/keymaps.lua",
+    "sha256_origen": "3cc1634784fa6295e0c24be14618095c36c418c8ffe52d0b6677871367f4bfd4",
+    "sha256_copia": "3cc1634784fa6295e0c24be14618095c36c418c8ffe52d0b6677871367f4bfd4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/config/lazy.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/config/lazy.lua",
+    "sha256_origen": "5b76dbe68fda30d200b900d129613521ba2b56f3d72ae82d53694b3b8daac41c",
+    "sha256_copia": "5b76dbe68fda30d200b900d129613521ba2b56f3d72ae82d53694b3b8daac41c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/config/options.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/config/options.lua",
+    "sha256_origen": "d1ef47172279c01d5b8045920c90474ae0dcbb3567d99c779deb89ebf4ca1635",
+    "sha256_copia": "d1ef47172279c01d5b8045920c90474ae0dcbb3567d99c779deb89ebf4ca1635",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/colorscheme.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/colorscheme.lua",
+    "sha256_origen": "2885c5d3203dc70dfa9b585b3a2701fbd89bef7bc120bb17fdeb95f72e923df0",
+    "sha256_copia": "2885c5d3203dc70dfa9b585b3a2701fbd89bef7bc120bb17fdeb95f72e923df0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/completion.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/completion.lua",
+    "sha256_origen": "96c3de2c0816cb64f0dc177052beb0ccf23b952cbebd096ece885fd71d63719b",
+    "sha256_copia": "96c3de2c0816cb64f0dc177052beb0ccf23b952cbebd096ece885fd71d63719b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/editor.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/editor.lua",
+    "sha256_origen": "522bbcd895cad279326175e5217d2f45c89ac34d778f094bb86c820e9d90ef90",
+    "sha256_copia": "522bbcd895cad279326175e5217d2f45c89ac34d778f094bb86c820e9d90ef90",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/formatting.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/formatting.lua",
+    "sha256_origen": "55b33f7df0f7aa3f22c2df3a79e693cadfcfc5c2ad15699cfddbc7cdbcbe65bb",
+    "sha256_copia": "55b33f7df0f7aa3f22c2df3a79e693cadfcfc5c2ad15699cfddbc7cdbcbe65bb",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/git.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/git.lua",
+    "sha256_origen": "d05f485ea2e55f7b0a36c12d3e34e9c7062528ad766e6189067985a46e371f05",
+    "sha256_copia": "d05f485ea2e55f7b0a36c12d3e34e9c7062528ad766e6189067985a46e371f05",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/lang-flutter.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/lang-flutter.lua",
+    "sha256_origen": "fa6f4ca96e512bd3b91207f16b678806d7183d37d9b379dd089bc8dab87d12bd",
+    "sha256_copia": "fa6f4ca96e512bd3b91207f16b678806d7183d37d9b379dd089bc8dab87d12bd",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/lang-rust.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/lang-rust.lua",
+    "sha256_origen": "8bceaef24c82ae37a370e320296ade8fd7734834fa353c01ddb8ef6b91a8a861",
+    "sha256_copia": "8bceaef24c82ae37a370e320296ade8fd7734834fa353c01ddb8ef6b91a8a861",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/linting.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/linting.lua",
+    "sha256_origen": "2be07ba772806517e802b37682e7fb1d73e4956ff0ace3efef400fa1dc1de7e4",
+    "sha256_copia": "2be07ba772806517e802b37682e7fb1d73e4956ff0ace3efef400fa1dc1de7e4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/lsp.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/lsp.lua",
+    "sha256_origen": "84f8d89c3046d1df9bd819d6469572716fd99d8216ecf149d0c502cf9d0fe5dc",
+    "sha256_copia": "84f8d89c3046d1df9bd819d6469572716fd99d8216ecf149d0c502cf9d0fe5dc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/markdown.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/markdown.lua",
+    "sha256_origen": "957e7b5c203f75c850ec58d1bda3d1035968d561816c01af994f4100c6e0b720",
+    "sha256_copia": "957e7b5c203f75c850ec58d1bda3d1035968d561816c01af994f4100c6e0b720",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/snacks.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/snacks.lua",
+    "sha256_origen": "f61a120b585fe59b27f7bcfe597a14283c63077155b54907c3cacbea38d79abc",
+    "sha256_copia": "f61a120b585fe59b27f7bcfe597a14283c63077155b54907c3cacbea38d79abc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/telescope.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/telescope.lua",
+    "sha256_origen": "67a5a050090394d078e02e5748ca88fc70b7ab8f6c8c991914dedb33b4e84c77",
+    "sha256_copia": "67a5a050090394d078e02e5748ca88fc70b7ab8f6c8c991914dedb33b4e84c77",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/terminal.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/terminal.lua",
+    "sha256_origen": "d1f9e7a71e9117a3150f78f43d4ecace79f93986b19179cd19dfceee5801c9ca",
+    "sha256_copia": "d1f9e7a71e9117a3150f78f43d4ecace79f93986b19179cd19dfceee5801c9ca",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/treesitter.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/treesitter.lua",
+    "sha256_origen": "1356df03122e5158dcfc3fb6232fb99c77adaeec31947fde4ffb7aeeb8db81c0",
+    "sha256_copia": "1356df03122e5158dcfc3fb6232fb99c77adaeec31947fde4ffb7aeeb8db81c0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/trouble.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/trouble.lua",
+    "sha256_origen": "9314654bc3e169ad65ef280322fbac85e18913d5b29dc9ffc768b7885bca7446",
+    "sha256_copia": "9314654bc3e169ad65ef280322fbac85e18913d5b29dc9ffc768b7885bca7446",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/nvim/.config/nvim/lua/plugins/ui.lua",
+    "destino": "dotfiles/nvim/.config/nvim/lua/plugins/ui.lua",
+    "sha256_origen": "6b0356f8fe80f55f818bc97709bc36c2046bd98f23d30901a7119feeaa9fccd2",
+    "sha256_copia": "6b0356f8fe80f55f818bc97709bc36c2046bd98f23d30901a7119feeaa9fccd2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/qt6ct/.config/qt6ct/colors/deep-ocean.conf",
+    "destino": "dotfiles/qt6ct/.config/qt6ct/colors/deep-ocean.conf",
+    "sha256_origen": "262a53e5ccbf493b78bc05305a84544afdae650ea367dfd2c086da2572d7e5eb",
+    "sha256_copia": "262a53e5ccbf493b78bc05305a84544afdae650ea367dfd2c086da2572d7e5eb",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/qt6ct/.config/qt6ct/qt6ct.conf",
+    "destino": "dotfiles/qt6ct/.config/qt6ct/qt6ct.conf",
+    "sha256_origen": "147beefdb1fb3cac8324c86077869d3f39c401f465a997aca50b7c1c949ca899",
+    "sha256_copia": "4972bb90a9d705d9cd996a841511186e8e3bb4dc31b515f40f8b56f7bbd68dc3",
+    "adaptacion": "Marcador @HOME@ resuelto durante activación Home Manager."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Backdrop.qml",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Backdrop.qml",
+    "sha256_origen": "2817c8e0e9a37b2a4ecb80e7dd007b75d4087fa5c0b5839c2619e866a4b0a5b9",
+    "sha256_copia": "2817c8e0e9a37b2a4ecb80e7dd007b75d4087fa5c0b5839c2619e866a4b0a5b9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Singletons/Motion.qml",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Singletons/Motion.qml",
+    "sha256_origen": "6a44c21a5995f5c44ef0d17984165ab195783daee5e3d25588c9652bb6506a02",
+    "sha256_copia": "6a44c21a5995f5c44ef0d17984165ab195783daee5e3d25588c9652bb6506a02",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Singletons/qmldir",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Singletons/qmldir",
+    "sha256_origen": "c8e80833162d007af24ca2fe0c818588efb0dceebd472a9fa879f3c05eb54c2f",
+    "sha256_copia": "c8e80833162d007af24ca2fe0c818588efb0dceebd472a9fa879f3c05eb54c2f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Wallpaper.qml",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/Wallpaper.qml",
+    "sha256_origen": "3897a3eafb8b37fb752ccbb6f0165241b5d54a2b0709fe231e3073fb84ee1fa4",
+    "sha256_copia": "3897a3eafb8b37fb752ccbb6f0165241b5d54a2b0709fe231e3073fb84ee1fa4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/WallpaperFrame.qml",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/WallpaperFrame.qml",
+    "sha256_origen": "46f2d63329f76dda50c28403f933fc09771e00015b859f9be0ac35da7d55fe55",
+    "sha256_copia": "46f2d63329f76dda50c28403f933fc09771e00015b859f9be0ac35da7d55fe55",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/reveal.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/reveal.frag",
+    "sha256_origen": "dd2f6daca340bc9d37d929cc01a7f651c9ecfcec956fd8980a60c6039189c2d7",
+    "sha256_copia": "dd2f6daca340bc9d37d929cc01a7f651c9ecfcec956fd8980a60c6039189c2d7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/reveal.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/reveal.frag.qsb",
+    "sha256_origen": "3e6ddf4c0dc8d2799ec0032c1cd62c5df2804a0cef1afc368cd42185f073b9c4",
+    "sha256_copia": "3e6ddf4c0dc8d2799ec0032c1cd62c5df2804a0cef1afc368cd42185f073b9c4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/bounce.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/bounce.frag",
+    "sha256_origen": "d8f8bd08520331cf747d0e43c3bc5ca4a46a1d7f5065cbe0bdd3ee5aeec9cfbb",
+    "sha256_copia": "d8f8bd08520331cf747d0e43c3bc5ca4a46a1d7f5065cbe0bdd3ee5aeec9cfbb",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/bounce.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/bounce.frag.qsb",
+    "sha256_origen": "195d5ca56c595ed5f4498da3d532907ae6a26afe03eec930b2d4001e0e6d6db2",
+    "sha256_copia": "195d5ca56c595ed5f4498da3d532907ae6a26afe03eec930b2d4001e0e6d6db2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/chromatic-bloom.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/chromatic-bloom.frag",
+    "sha256_origen": "27fcd2a13ea4bf2b189f06009c1833d550a43fdcb71f05a590a43abb7ae64b23",
+    "sha256_copia": "27fcd2a13ea4bf2b189f06009c1833d550a43fdcb71f05a590a43abb7ae64b23",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/chromatic-bloom.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/chromatic-bloom.frag.qsb",
+    "sha256_origen": "296cf2de86ab062ac265341981aa585f1a18f1a60b0192d1833c9be508b6e305",
+    "sha256_copia": "296cf2de86ab062ac265341981aa585f1a18f1a60b0192d1833c9be508b6e305",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/circle-crop.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/circle-crop.frag",
+    "sha256_origen": "ff7a166fe024b0c9443a518a72cb31306db6b15163afcebf43917b7aabf85665",
+    "sha256_copia": "ff7a166fe024b0c9443a518a72cb31306db6b15163afcebf43917b7aabf85665",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/circle-crop.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/circle-crop.frag.qsb",
+    "sha256_origen": "4933e93b100537a97bc2ff301e8a258e2650b5d4fca2150f9a45de4f4595a7a4",
+    "sha256_copia": "4933e93b100537a97bc2ff301e8a258e2650b5d4fca2150f9a45de4f4595a7a4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/colour-distance.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/colour-distance.frag",
+    "sha256_origen": "406005204dc3791fe09f8246a409e8521fbf6aef12eb4dcbc33f2586a526be83",
+    "sha256_copia": "406005204dc3791fe09f8246a409e8521fbf6aef12eb4dcbc33f2586a526be83",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/colour-distance.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/colour-distance.frag.qsb",
+    "sha256_origen": "c1e304d706a700cfa2eaff6507c0bc60c06dbca4e929420e4175d82ff5add49d",
+    "sha256_copia": "c1e304d706a700cfa2eaff6507c0bc60c06dbca4e929420e4175d82ff5add49d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crazy-parametric.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crazy-parametric.frag",
+    "sha256_origen": "065efae146ae12e6c127b0fd1c091c0a02cbb688954d104c670131a1e627fc8c",
+    "sha256_copia": "065efae146ae12e6c127b0fd1c091c0a02cbb688954d104c670131a1e627fc8c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crazy-parametric.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crazy-parametric.frag.qsb",
+    "sha256_origen": "c91f42de9f62c9d7612147d0b916d378685d5a6225cb2d958cff18da95237e65",
+    "sha256_copia": "c91f42de9f62c9d7612147d0b916d378685d5a6225cb2d958cff18da95237e65",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosshatch.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosshatch.frag",
+    "sha256_origen": "2c6c1d84170114ab99a78d567ffe5d1c6110e3da29a22359a7c2ea64b28cf004",
+    "sha256_copia": "2c6c1d84170114ab99a78d567ffe5d1c6110e3da29a22359a7c2ea64b28cf004",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosshatch.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosshatch.frag.qsb",
+    "sha256_origen": "ba4ce1f5a00ca9edf2f3bbabcb26de765ee4f7a9b94b2c0a4fcb377f1d276fae",
+    "sha256_copia": "ba4ce1f5a00ca9edf2f3bbabcb26de765ee4f7a9b94b2c0a4fcb377f1d276fae",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosswarp.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosswarp.frag",
+    "sha256_origen": "0491d5c39cd8c0560838d3c5919cca8f7bd3802ef16c80fe66680d1c4afe400d",
+    "sha256_copia": "0491d5c39cd8c0560838d3c5919cca8f7bd3802ef16c80fe66680d1c4afe400d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosswarp.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/crosswarp.frag.qsb",
+    "sha256_origen": "e5d98042e32012eebcc6f30f066955e6492f9ed9c4312744f70bc642c30f86d4",
+    "sha256_copia": "e5d98042e32012eebcc6f30f066955e6492f9ed9c4312744f70bc642c30f86d4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-scaled.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-scaled.frag",
+    "sha256_origen": "75c760872a0d22d0b138636315507c8e4c42f5f3a51607584a5f7120f2b522af",
+    "sha256_copia": "75c760872a0d22d0b138636315507c8e4c42f5f3a51607584a5f7120f2b522af",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-scaled.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-scaled.frag.qsb",
+    "sha256_origen": "578d39ef24165a6d4dd236a12226ec6c259014dc6fc9efd716b5300bef286458",
+    "sha256_copia": "578d39ef24165a6d4dd236a12226ec6c259014dc6fc9efd716b5300bef286458",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-wipe.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-wipe.frag",
+    "sha256_origen": "4485b228b075ea3c548917ea66fdc332d575437b04379abd9b5b3504eba8ea93",
+    "sha256_copia": "4485b228b075ea3c548917ea66fdc332d575437b04379abd9b5b3504eba8ea93",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-wipe.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional-wipe.frag.qsb",
+    "sha256_origen": "a7f5a26f0610af76caf0c01bd9e2c56f24c563a44448ebfb0df505224a1e98d9",
+    "sha256_copia": "a7f5a26f0610af76caf0c01bd9e2c56f24c563a44448ebfb0df505224a1e98d9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional.frag",
+    "sha256_origen": "b2e3be15aac0abecb4b14e02c5bea0e54f1d8c0e10a595a7766a1191dc124db8",
+    "sha256_copia": "b2e3be15aac0abecb4b14e02c5bea0e54f1d8c0e10a595a7766a1191dc124db8",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/directional.frag.qsb",
+    "sha256_origen": "982ec188ae00df9a66fcbc199b97fa4ecf9ec066603597d1620264385ada1476",
+    "sha256_copia": "982ec188ae00df9a66fcbc199b97fa4ecf9ec066603597d1620264385ada1476",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/edge-transition.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/edge-transition.frag",
+    "sha256_origen": "eb32f0e7dd8ab01ba4c42c11ec6da7be662a0a83fc58dbe301e3f2a86b45055f",
+    "sha256_copia": "eb32f0e7dd8ab01ba4c42c11ec6da7be662a0a83fc58dbe301e3f2a86b45055f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/edge-transition.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/edge-transition.frag.qsb",
+    "sha256_origen": "4983fea3458dc34a8c19404e8bbf4e8b7f7c88d559f70b4e12df7518677efa62",
+    "sha256_copia": "4983fea3458dc34a8c19404e8bbf4e8b7f7c88d559f70b4e12df7518677efa62",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/fadecolor.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/fadecolor.frag",
+    "sha256_origen": "18eb6ff5711d91a8bf3f3b7b278eedc0e038439f546b24a3eea62186cb4cb4d8",
+    "sha256_copia": "18eb6ff5711d91a8bf3f3b7b278eedc0e038439f546b24a3eea62186cb4cb4d8",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/fadecolor.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/fadecolor.frag.qsb",
+    "sha256_origen": "dffac98fec17fc6c96a71a901b70ce4c9caa514a6fd0ce45ce2a5c4a35d40543",
+    "sha256_copia": "dffac98fec17fc6c96a71a901b70ce4c9caa514a6fd0ce45ce2a5c4a35d40543",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/flyeye.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/flyeye.frag",
+    "sha256_origen": "1c767c065b6eee499647b96ed7f89db8bdf60d6dcde034bee49172e949bed818",
+    "sha256_copia": "1c767c065b6eee499647b96ed7f89db8bdf60d6dcde034bee49172e949bed818",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/flyeye.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/flyeye.frag.qsb",
+    "sha256_origen": "02c51836c03286458921978fd793a719d9f2bbfdda1e96b25b1a9abdf3442fa1",
+    "sha256_copia": "02c51836c03286458921978fd793a719d9f2bbfdda1e96b25b1a9abdf3442fa1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch-displace.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch-displace.frag",
+    "sha256_origen": "e8a54a4b02bffbe01dcde3c52cece08b9a679c40a23b2e750a53238f5f874de7",
+    "sha256_copia": "e8a54a4b02bffbe01dcde3c52cece08b9a679c40a23b2e750a53238f5f874de7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch-displace.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch-displace.frag.qsb",
+    "sha256_origen": "d031e7c037c88d1f24fad6d1161943f2258f6ccc2545b53b1d4cb2e4d895ee20",
+    "sha256_copia": "d031e7c037c88d1f24fad6d1161943f2258f6ccc2545b53b1d4cb2e4d895ee20",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch.frag",
+    "sha256_origen": "2f777e2711a2457b2bbf1ef7b64ddd8d55bbf9abcc526333c9eb0edc39446f44",
+    "sha256_copia": "2f777e2711a2457b2bbf1ef7b64ddd8d55bbf9abcc526333c9eb0edc39446f44",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/glitch.frag.qsb",
+    "sha256_origen": "950fa7f5f9aa8ee64a0cc3c4288e6890eebf23f6601fcffe9ea6b1c23804938a",
+    "sha256_copia": "950fa7f5f9aa8ee64a0cc3c4288e6890eebf23f6601fcffe9ea6b1c23804938a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/heat-melt.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/heat-melt.frag",
+    "sha256_origen": "3189515635097a0d27be2c81b0abcdcaa05f91a9a31a09c5093a1314d276e7b9",
+    "sha256_copia": "3189515635097a0d27be2c81b0abcdcaa05f91a9a31a09c5093a1314d276e7b9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/heat-melt.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/heat-melt.frag.qsb",
+    "sha256_origen": "012dc7d2bbae64a441857f0992e5a13a94de9542c8cd0efe78de1ca1a87a0312",
+    "sha256_copia": "012dc7d2bbae64a441857f0992e5a13a94de9542c8cd0efe78de1ca1a87a0312",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/ink-splash.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/ink-splash.frag",
+    "sha256_origen": "5fb022c556daca515be9585584df27340f2989d651bcd28f55c5362bfd8041bc",
+    "sha256_copia": "5fb022c556daca515be9585584df27340f2989d651bcd28f55c5362bfd8041bc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/ink-splash.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/ink-splash.frag.qsb",
+    "sha256_origen": "ddcec99e2d4711f0c949d9fefc93c60ba7fb28b56bc0a6fdf9a123379064c549",
+    "sha256_copia": "ddcec99e2d4711f0c949d9fefc93c60ba7fb28b56bc0a6fdf9a123379064c549",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/inkwell-drop.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/inkwell-drop.frag",
+    "sha256_origen": "d7409ffbafe57f2fba27380d6397b380b64ceb7f146e6fe82f6086e8e29ffe3b",
+    "sha256_copia": "d7409ffbafe57f2fba27380d6397b380b64ceb7f146e6fe82f6086e8e29ffe3b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/inkwell-drop.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/inkwell-drop.frag.qsb",
+    "sha256_origen": "71a25863241690c8c26f94e60898f4cc8118117c52d2adf333d1e741fc35a67f",
+    "sha256_copia": "71a25863241690c8c26f94e60898f4cc8118117c52d2adf333d1e741fc35a67f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/iris.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/iris.frag",
+    "sha256_origen": "602d354caf99c70d41a28e9b73df5d19ceade29453b18839571f5bbb1eee6acc",
+    "sha256_copia": "602d354caf99c70d41a28e9b73df5d19ceade29453b18839571f5bbb1eee6acc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/iris.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/iris.frag.qsb",
+    "sha256_origen": "d627cfcab833b59cea84a110cbcb33a58bfbef2496019bad5d64121d205ea3ee",
+    "sha256_copia": "d627cfcab833b59cea84a110cbcb33a58bfbef2496019bad5d64121d205ea3ee",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/liquid-ripple.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/liquid-ripple.frag",
+    "sha256_origen": "3d5babe4863c9cb619032cde43bd30ac724065701d187763359b62601eb35e52",
+    "sha256_copia": "3d5babe4863c9cb619032cde43bd30ac724065701d187763359b62601eb35e52",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/liquid-ripple.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/liquid-ripple.frag.qsb",
+    "sha256_origen": "ee92ddccdaf7d8dfecd1dbfac039453dd88b7d18c17d1614a79695876deaae3b",
+    "sha256_copia": "ee92ddccdaf7d8dfecd1dbfac039453dd88b7d18c17d1614a79695876deaae3b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/morph.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/morph.frag",
+    "sha256_origen": "467aeeebdcb2f2ad8c8cecea60097be74865809628382c8cdcfd85c33234f4c4",
+    "sha256_copia": "467aeeebdcb2f2ad8c8cecea60097be74865809628382c8cdcfd85c33234f4c4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/morph.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/morph.frag.qsb",
+    "sha256_origen": "8b724f1d846f6cbf20ee7231c13304cd9775ea4422913644953a1d3b951c3f0d",
+    "sha256_copia": "8b724f1d846f6cbf20ee7231c13304cd9775ea4422913644953a1d3b951c3f0d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/mosaic-tumble.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/mosaic-tumble.frag",
+    "sha256_origen": "4b11f5d63c6ff341fa6437a554e0b3f48f9da56182d53a512d27239471557683",
+    "sha256_copia": "4b11f5d63c6ff341fa6437a554e0b3f48f9da56182d53a512d27239471557683",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/mosaic-tumble.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/mosaic-tumble.frag.qsb",
+    "sha256_origen": "fdd90cb5a770c74818ef0cd8f65bc9d90940a8eb0f19e3b3df2d58f19e36a296",
+    "sha256_copia": "fdd90cb5a770c74818ef0cd8f65bc9d90940a8eb0f19e3b3df2d58f19e36a296",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/overexposure.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/overexposure.frag",
+    "sha256_origen": "1d07ec0d745222de101e48cda735b12d9295b6694dbd33878662df2326be2ff3",
+    "sha256_copia": "1d07ec0d745222de101e48cda735b12d9295b6694dbd33878662df2326be2ff3",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/overexposure.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/overexposure.frag.qsb",
+    "sha256_origen": "1636aaa48913e4f7ea0f31eb9b8f20fb8c01cd15fe36414df61deb24349c5738",
+    "sha256_copia": "1636aaa48913e4f7ea0f31eb9b8f20fb8c01cd15fe36414df61deb24349c5738",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/parametric-glitch.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/parametric-glitch.frag",
+    "sha256_origen": "f9da24651503c869ec0455942ec6bf84f93cc7ac0ce3780fb3496194eef87984",
+    "sha256_copia": "f9da24651503c869ec0455942ec6bf84f93cc7ac0ce3780fb3496194eef87984",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/parametric-glitch.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/parametric-glitch.frag.qsb",
+    "sha256_origen": "12ac3da38cd60ca0b45f31141c2d3582a2314e3abd0792507caca6647b899255",
+    "sha256_copia": "12ac3da38cd60ca0b45f31141c2d3582a2314e3abd0792507caca6647b899255",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/perlin.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/perlin.frag",
+    "sha256_origen": "10fc406532965e499c23fa4395051bb80f769ba725b3140829922e43fa604d6d",
+    "sha256_copia": "10fc406532965e499c23fa4395051bb80f769ba725b3140829922e43fa604d6d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/perlin.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/perlin.frag.qsb",
+    "sha256_origen": "eaadf5522d1ea0ae0d84ad0b82625213421e0e54806c0185f1ae66c6e091f29b",
+    "sha256_copia": "eaadf5522d1ea0ae0d84ad0b82625213421e0e54806c0185f1ae66c6e091f29b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelate.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelate.frag",
+    "sha256_origen": "cac5de0101d323a4cd0d5fa873caf5d6a857d29551d8a9db07e1838fcdf7365a",
+    "sha256_copia": "cac5de0101d323a4cd0d5fa873caf5d6a857d29551d8a9db07e1838fcdf7365a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelate.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelate.frag.qsb",
+    "sha256_origen": "ae7b2ba9c56362964e9be86175dcfed7d106b3730832ca46cea75d63bb545fb4",
+    "sha256_copia": "ae7b2ba9c56362964e9be86175dcfed7d106b3730832ca46cea75d63bb545fb4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelfade-wave.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelfade-wave.frag",
+    "sha256_origen": "faf1a7f9ec732357ef06c67fe549bb5c081747fac970b0b3532d21fcabbae646",
+    "sha256_copia": "faf1a7f9ec732357ef06c67fe549bb5c081747fac970b0b3532d21fcabbae646",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelfade-wave.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/pixelfade-wave.frag.qsb",
+    "sha256_origen": "855045c36243da2407c1d1b15b0cf2a8f2ec3d33662bc4096a9c284afc11df49",
+    "sha256_copia": "855045c36243da2407c1d1b15b0cf2a8f2ec3d33662bc4096a9c284afc11df49",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/plasma-flow.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/plasma-flow.frag",
+    "sha256_origen": "f80cc31478dfb636b47d460247a706a4d560b44dbfc0a203503e9087dc87e7e4",
+    "sha256_copia": "f80cc31478dfb636b47d460247a706a4d560b44dbfc0a203503e9087dc87e7e4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/plasma-flow.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/plasma-flow.frag.qsb",
+    "sha256_origen": "89092eb5002b9b184716d2026f9e5a8bfbbfbdae79787d88db30f61b23992a44",
+    "sha256_copia": "89092eb5002b9b184716d2026f9e5a8bfbbfbdae79787d88db30f61b23992a44",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polar-function.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polar-function.frag",
+    "sha256_origen": "b34afaa74b0d5c20c64bfd08e950faef621a231dfef581a9eaf1c8cd20277cc7",
+    "sha256_copia": "b34afaa74b0d5c20c64bfd08e950faef621a231dfef581a9eaf1c8cd20277cc7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polar-function.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polar-function.frag.qsb",
+    "sha256_origen": "f15bb2d1aeea72412cd3d8cd7eba0f13e86ea74bd868cd10321f4a5e57dc968d",
+    "sha256_copia": "f15bb2d1aeea72412cd3d8cd7eba0f13e86ea74bd868cd10321f4a5e57dc968d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polka-dots-curtain.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polka-dots-curtain.frag",
+    "sha256_origen": "e6bfa37400d6f91d4946abff15651079b3c59bdaf2bf64114be010e993596611",
+    "sha256_copia": "e6bfa37400d6f91d4946abff15651079b3c59bdaf2bf64114be010e993596611",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polka-dots-curtain.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/polka-dots-curtain.frag.qsb",
+    "sha256_origen": "81b8f57711725b10fe4d777b917853a92ae02e45b5b72dfa8336b5358d223440",
+    "sha256_copia": "81b8f57711725b10fe4d777b917853a92ae02e45b5b72dfa8336b5358d223440",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/puzzle-right.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/puzzle-right.frag",
+    "sha256_origen": "c9ffe581e090c8e22222cd367480997415ede978eecfae5da9d091bb1e0d696c",
+    "sha256_copia": "c9ffe581e090c8e22222cd367480997415ede978eecfae5da9d091bb1e0d696c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/puzzle-right.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/puzzle-right.frag.qsb",
+    "sha256_origen": "9f734f12e1623f9f3f6a714c01874363a3223aa803d0b73bee5794e2cfeb6415",
+    "sha256_copia": "9f734f12e1623f9f3f6a714c01874363a3223aa803d0b73bee5794e2cfeb6415",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/randomsquares.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/randomsquares.frag",
+    "sha256_origen": "17c287e6be62e8ab788866a441debc2c15dd05ea65d27d5bfde17d01a4c314a7",
+    "sha256_copia": "17c287e6be62e8ab788866a441debc2c15dd05ea65d27d5bfde17d01a4c314a7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/randomsquares.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/randomsquares.frag.qsb",
+    "sha256_origen": "e4650fdf14249e51b2bc35f90fd3cf0f19586369239696aa9876e4739b214556",
+    "sha256_copia": "e4650fdf14249e51b2bc35f90fd3cf0f19586369239696aa9876e4739b214556",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/smoke.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/smoke.frag",
+    "sha256_origen": "bc8f43cc4e0987e789f6dd8b39bd316f32259f1a8eea0bee24920bf72b463ec9",
+    "sha256_copia": "bc8f43cc4e0987e789f6dd8b39bd316f32259f1a8eea0bee24920bf72b463ec9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/smoke.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/smoke.frag.qsb",
+    "sha256_origen": "aa5a22e05c12aa586ae7c4c2724678c5ab5f3a96a6f382e6a4627ec04c34e647",
+    "sha256_copia": "aa5a22e05c12aa586ae7c4c2724678c5ab5f3a96a6f382e6a4627ec04c34e647",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/soft-warp-fade.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/soft-warp-fade.frag",
+    "sha256_origen": "f424e4ef142ea2870d495013c3855f0f32bf9dce14f7de1c0f7398feffb42ef9",
+    "sha256_copia": "f424e4ef142ea2870d495013c3855f0f32bf9dce14f7de1c0f7398feffb42ef9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/soft-warp-fade.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/soft-warp-fade.frag.qsb",
+    "sha256_origen": "c6e77242f0d31417a34556df4841a86fb8068a860ee4daaed10cd9d6d9814f86",
+    "sha256_copia": "c6e77242f0d31417a34556df4841a86fb8068a860ee4daaed10cd9d6d9814f86",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/static-fade.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/static-fade.frag",
+    "sha256_origen": "52782d1b9b6960d46386ceba4b195cc727a5146461bbc8a43f89baccae5a8314",
+    "sha256_copia": "52782d1b9b6960d46386ceba4b195cc727a5146461bbc8a43f89baccae5a8314",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/static-fade.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/static-fade.frag.qsb",
+    "sha256_origen": "244b4f2f28bde1aaad319039af1a7a8ff1a93f33ea190de9885c01de8ce6c5ab",
+    "sha256_copia": "244b4f2f28bde1aaad319039af1a7a8ff1a93f33ea190de9885c01de8ce6c5ab",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/voronoi-shatter.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/voronoi-shatter.frag",
+    "sha256_origen": "83365e69185039f9478fe6e5b310c75d66b7dcfebf0f5f796caa6fa2eda5d9d1",
+    "sha256_copia": "83365e69185039f9478fe6e5b310c75d66b7dcfebf0f5f796caa6fa2eda5d9d1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/voronoi-shatter.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/voronoi-shatter.frag.qsb",
+    "sha256_origen": "0273f2b457caa92d77664fcfb9510d3e904cd2056800c91b7dd44fb1d315c99d",
+    "sha256_copia": "0273f2b457caa92d77664fcfb9510d3e904cd2056800c91b7dd44fb1d315c99d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/wave-warp.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/wave-warp.frag",
+    "sha256_origen": "150948c51eed96f0a986780e64334ab7dd04dad6b025e257cbc2e60ee85d2274",
+    "sha256_copia": "150948c51eed96f0a986780e64334ab7dd04dad6b025e257cbc2e60ee85d2274",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/wave-warp.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/wave-warp.frag.qsb",
+    "sha256_origen": "f6196f9811d6978cda486563a41b92143cce61aa82c0b3316c358f322441e9f6",
+    "sha256_copia": "f6196f9811d6978cda486563a41b92143cce61aa82c0b3316c358f322441e9f6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/zoom-blur-pull.frag",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/zoom-blur-pull.frag",
+    "sha256_origen": "34cfcb4b9b1bd95d45199c50ee0cf395995d96fd9f79e871d3ae0fa865e649a9",
+    "sha256_copia": "34cfcb4b9b1bd95d45199c50ee0cf395995d96fd9f79e871d3ae0fa865e649a9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/zoom-blur-pull.frag.qsb",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/modules/wallpaper/skwd/zoom-blur-pull.frag.qsb",
+    "sha256_origen": "fc555a7cf92a19391be195a31d2456e158d3ddf097cd65b5ddb870d4c22a718a",
+    "sha256_copia": "fc555a7cf92a19391be195a31d2456e158d3ddf097cd65b5ddb870d4c22a718a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/quickshell/.config/quickshell/wallpaper/shell.qml",
+    "destino": "dotfiles/quickshell/.config/quickshell/wallpaper/shell.qml",
+    "sha256_origen": "104f3f0fedb4b98d1431574a55c96f3c30342291c4c6d264cb32bf575c258a71",
+    "sha256_copia": "104f3f0fedb4b98d1431574a55c96f3c30342291c4c6d264cb32bf575c258a71",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/cliphist/style.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/cliphist/style.rasi",
+    "sha256_origen": "e6428fd91a7990cf73ab738cbd1c319b9aaa48bcb15cc882c0d1d15166186999",
+    "sha256_copia": "e6428fd91a7990cf73ab738cbd1c319b9aaa48bcb15cc882c0d1d15166186999",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/config.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/config.rasi",
+    "sha256_origen": "34725d7cffacf193d68d0eb5c3f78e5983083aac38511d76fd3d9174769a0a12",
+    "sha256_copia": "34725d7cffacf193d68d0eb5c3f78e5983083aac38511d76fd3d9174769a0a12",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/keybinds/style.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/keybinds/style.rasi",
+    "sha256_origen": "39a679077f9f4afec091a0e454c2c17446ef7be314223087300eac4e5bf6bf3b",
+    "sha256_copia": "39a679077f9f4afec091a0e454c2c17446ef7be314223087300eac4e5bf6bf3b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/launcher.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/launcher.rasi",
+    "sha256_origen": "f574dc13e247576ad7ac7aa00d7c9cbebb478c9fefb8cafb795adabbbc36698d",
+    "sha256_copia": "f574dc13e247576ad7ac7aa00d7c9cbebb478c9fefb8cafb795adabbbc36698d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/wifi/enable.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/wifi/enable.rasi",
+    "sha256_origen": "16463c95717de13a7f65d6a5f45627485e65548edc0e6c38c0d21ff6a939392d",
+    "sha256_copia": "16463c95717de13a7f65d6a5f45627485e65548edc0e6c38c0d21ff6a939392d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/wifi/list.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/wifi/list.rasi",
+    "sha256_origen": "4be64d1cdf427c15772af16a89f0b83fa3322762e659b91c69c5625bb92f39ad",
+    "sha256_copia": "4be64d1cdf427c15772af16a89f0b83fa3322762e659b91c69c5625bb92f39ad",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/wifi/password.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/wifi/password.rasi",
+    "sha256_origen": "560c84252d02aa5ed9cbd1fe466603d25a7693bad9a20cbdbd18497b005f0b14",
+    "sha256_copia": "560c84252d02aa5ed9cbd1fe466603d25a7693bad9a20cbdbd18497b005f0b14",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/wifi/ssid.rasi",
+    "destino": "dotfiles/rofi/.config/rofi/wifi/ssid.rasi",
+    "sha256_origen": "ab7e0dc77ce2ad6209a11d242d0cf92e7e30c76d006313945ff311327799982a",
+    "sha256_copia": "ab7e0dc77ce2ad6209a11d242d0cf92e7e30c76d006313945ff311327799982a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/rofi/.config/rofi/wifi/wifi_manager.sh",
+    "destino": "dotfiles/rofi/.config/rofi/wifi/wifi_manager.sh",
+    "sha256_origen": "225b48ca69d6f0b5459d3e7c68016c044c1e5eea96d344d300a091fee51378d4",
+    "sha256_copia": "225b48ca69d6f0b5459d3e7c68016c044c1e5eea96d344d300a091fee51378d4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/starship/.config/starship.toml",
+    "destino": "dotfiles/starship/.config/starship.toml",
+    "sha256_origen": "7b4a1570f1f05b21b26cc94f1ac394987a08e3057169474a59bde37b57c77acf",
+    "sha256_copia": "7b4a1570f1f05b21b26cc94f1ac394987a08e3057169474a59bde37b57c77acf",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/waybar/.config/waybar/config.jsonc",
+    "destino": "dotfiles/waybar/.config/waybar/config.jsonc",
+    "sha256_origen": "4f172f85b2a7ef905e7817a8f47d8e9e92158dae29cbacbdbe668b4c4d4411fc",
+    "sha256_copia": "e71e89db64cf645816a9f7e71939c1698b2474c4e5ec404246023cf3d0882d1f",
+    "adaptacion": "Comentarios del botón actualizados al control scx."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/waybar/.config/waybar/style.css",
+    "destino": "dotfiles/waybar/.config/waybar/style.css",
+    "sha256_origen": "e2e20529c62f0b70b5bf2471a1313a0684f83da9aa725abf3522fa73b968f7b9",
+    "sha256_copia": "0268fafe76968a62af28a0956b3c5f7abca48d9169f618c00fc36ba30f5f4025",
+    "adaptacion": "Comentarios de estado actualizados al control scx."
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/yazi/.config/yazi/yazi.toml",
+    "destino": "dotfiles/yazi/.config/yazi/yazi.toml",
+    "sha256_origen": "d34760678eb1db02f3ad8089316855fdf3d2afb8ae1de55ab12cbe8b97c685b5",
+    "sha256_copia": "d34760678eb1db02f3ad8089316855fdf3d2afb8ae1de55ab12cbe8b97c685b5",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/balena-etcher.nix",
+    "destino": "pkgs/balena-etcher.nix",
+    "sha256_origen": "7eb28e27483d792830fc3fcc97db26d119a129ab0bf5d6b3d922413109065fb4",
+    "sha256_copia": "7eb28e27483d792830fc3fcc97db26d119a129ab0bf5d6b3d922413109065fb4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/boundary-desktop.nix",
+    "destino": "pkgs/boundary-desktop.nix",
+    "sha256_origen": "a670d39a1b2906ea535ac07e7596d0cbf10cafaf0e5fd12f6eb2548d06407383",
+    "sha256_copia": "a670d39a1b2906ea535ac07e7596d0cbf10cafaf0e5fd12f6eb2548d06407383",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/apply.go",
+    "destino": "pkgs/ryogami/daemon/apply.go",
+    "sha256_origen": "ae0c2436cce4b96c60bc6b4e4d4e353e901866762a6603915db843bcc371f8e2",
+    "sha256_copia": "ae0c2436cce4b96c60bc6b4e4d4e353e901866762a6603915db843bcc371f8e2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/config.go",
+    "destino": "pkgs/ryogami/daemon/config.go",
+    "sha256_origen": "dea128b65b470f6e1585e046fdbae55684cbe3d2b23b63889523d26a70d70210",
+    "sha256_copia": "dea128b65b470f6e1585e046fdbae55684cbe3d2b23b63889523d26a70d70210",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/daemon.go",
+    "destino": "pkgs/ryogami/daemon/daemon.go",
+    "sha256_origen": "f3ea57a98110a943b0ebb19ede6c8066fe26477ab39d253222b70da426436d11",
+    "sha256_copia": "f3ea57a98110a943b0ebb19ede6c8066fe26477ab39d253222b70da426436d11",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/e2e_test.go",
+    "destino": "pkgs/ryogami/daemon/e2e_test.go",
+    "sha256_origen": "51b9de2cb3fa1cb52787a0e0dc8a16308b99bd2814b9558912ae1847c7262e28",
+    "sha256_copia": "51b9de2cb3fa1cb52787a0e0dc8a16308b99bd2814b9558912ae1847c7262e28",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/effects.go",
+    "destino": "pkgs/ryogami/daemon/effects.go",
+    "sha256_origen": "38d849af692d0f7612ef413d83382623fd4856c0f0da09c6d9e4ecaa2d715223",
+    "sha256_copia": "38d849af692d0f7612ef413d83382623fd4856c0f0da09c6d9e4ecaa2d715223",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/effects_test.go",
+    "destino": "pkgs/ryogami/daemon/effects_test.go",
+    "sha256_origen": "fd75946f46117325b56d890a34177d886fd9ff87ffe5731cf4aff7da9f917310",
+    "sha256_copia": "fd75946f46117325b56d890a34177d886fd9ff87ffe5731cf4aff7da9f917310",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/effects_themes.go",
+    "destino": "pkgs/ryogami/daemon/effects_themes.go",
+    "sha256_origen": "dfe0df4b2c4d429f2d461deafc272bc7d85b6e5c2669f29cd177326044a93638",
+    "sha256_copia": "dfe0df4b2c4d429f2d461deafc272bc7d85b6e5c2669f29cd177326044a93638",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/go.mod",
+    "destino": "pkgs/ryogami/daemon/go.mod",
+    "sha256_origen": "7f205239579d93d6eb664d9a5e060b4202a404ad43b7abcc40ac3f006665c351",
+    "sha256_copia": "7f205239579d93d6eb664d9a5e060b4202a404ad43b7abcc40ac3f006665c351",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/grade.go",
+    "destino": "pkgs/ryogami/daemon/grade.go",
+    "sha256_origen": "67d66d499966153b3b76323b411314ee34e487dec467a542feabc76af149e615",
+    "sha256_copia": "67d66d499966153b3b76323b411314ee34e487dec467a542feabc76af149e615",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/grade_test.go",
+    "destino": "pkgs/ryogami/daemon/grade_test.go",
+    "sha256_origen": "4c49cddeb6bd999da719ac04255448fcb76cb9df8bd9230f1dbebf36f4d23668",
+    "sha256_copia": "4c49cddeb6bd999da719ac04255448fcb76cb9df8bd9230f1dbebf36f4d23668",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/livewall.go",
+    "destino": "pkgs/ryogami/daemon/livewall.go",
+    "sha256_origen": "cbb010ee8ff1e4ddd7f8add0429a9ad214b5c92c03a90681fb7d6938a4aba0d4",
+    "sha256_copia": "cbb010ee8ff1e4ddd7f8add0429a9ad214b5c92c03a90681fb7d6938a4aba0d4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/livewall_cache.go",
+    "destino": "pkgs/ryogami/daemon/livewall_cache.go",
+    "sha256_origen": "6040cdf57cb03d40259f5683d04bcbbd268b864ee9283b58f45fa01956d5808f",
+    "sha256_copia": "6040cdf57cb03d40259f5683d04bcbbd268b864ee9283b58f45fa01956d5808f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/livewall_cache_test.go",
+    "destino": "pkgs/ryogami/daemon/livewall_cache_test.go",
+    "sha256_origen": "e455c8c1539929f920a74856db4f4659faa6991fb48e4a540914dfa5b9a041b0",
+    "sha256_copia": "e455c8c1539929f920a74856db4f4659faa6991fb48e4a540914dfa5b9a041b0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/main.go",
+    "destino": "pkgs/ryogami/daemon/main.go",
+    "sha256_origen": "689a6152e1239300b83642aacef1f01997429d1aea0c6a76a77bbdbf73494dc2",
+    "sha256_copia": "689a6152e1239300b83642aacef1f01997429d1aea0c6a76a77bbdbf73494dc2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/optimize.go",
+    "destino": "pkgs/ryogami/daemon/optimize.go",
+    "sha256_origen": "1afcd05136457ad7c88485871a3cacbdc77f4858bec08ee217b99cc462dc8730",
+    "sha256_copia": "1afcd05136457ad7c88485871a3cacbdc77f4858bec08ee217b99cc462dc8730",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/optimize_test.go",
+    "destino": "pkgs/ryogami/daemon/optimize_test.go",
+    "sha256_origen": "1da20c9dbe6c9f066a4d4560dcd06b7cf3d2ea4ac0c205645d9404dc1502df28",
+    "sha256_copia": "1da20c9dbe6c9f066a4d4560dcd06b7cf3d2ea4ac0c205645d9404dc1502df28",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/playlist.go",
+    "destino": "pkgs/ryogami/daemon/playlist.go",
+    "sha256_origen": "b38f1adc2d4e9491d5824d3e57b4c99401f345c948b47ea9e3d874824aa77213",
+    "sha256_copia": "b38f1adc2d4e9491d5824d3e57b4c99401f345c948b47ea9e3d874824aa77213",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/playlist_test.go",
+    "destino": "pkgs/ryogami/daemon/playlist_test.go",
+    "sha256_origen": "449365093b792deead13848d243ab8d927f6c5fa4ee486ca4229d48d558b2f05",
+    "sha256_copia": "449365093b792deead13848d243ab8d927f6c5fa4ee486ca4229d48d558b2f05",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/process.go",
+    "destino": "pkgs/ryogami/daemon/process.go",
+    "sha256_origen": "ce13c4f2a15d133c55a9b5ee5d0ac019f1fcd4331eec51dfabba4dadc4776cac",
+    "sha256_copia": "ce13c4f2a15d133c55a9b5ee5d0ac019f1fcd4331eec51dfabba4dadc4776cac",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/proto.go",
+    "destino": "pkgs/ryogami/daemon/proto.go",
+    "sha256_origen": "a2cc8b648a72f6493f2743b4d6fd8aa7a8d1aa2bed3dd1ca5acb0c581400ee39",
+    "sha256_copia": "a2cc8b648a72f6493f2743b4d6fd8aa7a8d1aa2bed3dd1ca5acb0c581400ee39",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/random.go",
+    "destino": "pkgs/ryogami/daemon/random.go",
+    "sha256_origen": "cb73404b1eabf75ba31c3c841faf5768407c0ed328edade9b8bc5e2840580fff",
+    "sha256_copia": "cb73404b1eabf75ba31c3c841faf5768407c0ed328edade9b8bc5e2840580fff",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/restore_watch.go",
+    "destino": "pkgs/ryogami/daemon/restore_watch.go",
+    "sha256_origen": "e0efe4aff3692a9bc7f7b7602922f14d4b2e3e6ef21590fefb6d491378dc2079",
+    "sha256_copia": "e0efe4aff3692a9bc7f7b7602922f14d4b2e3e6ef21590fefb6d491378dc2079",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/restore_watch_test.go",
+    "destino": "pkgs/ryogami/daemon/restore_watch_test.go",
+    "sha256_origen": "68671cf5e1f3861a4d341dc2089f9b5fce4bb4765c99ae986c4942aba19faced",
+    "sha256_copia": "68671cf5e1f3861a4d341dc2089f9b5fce4bb4765c99ae986c4942aba19faced",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/rpc.go",
+    "destino": "pkgs/ryogami/daemon/rpc.go",
+    "sha256_origen": "fb937e1d6e6c95ecb2da1a129e63d99256d61f96cc03560a564245c5656f34e1",
+    "sha256_copia": "fb937e1d6e6c95ecb2da1a129e63d99256d61f96cc03560a564245c5656f34e1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/scan.go",
+    "destino": "pkgs/ryogami/daemon/scan.go",
+    "sha256_origen": "3dbdc231b8827afe4cb733fdce3b35d1673d5058cb2d26ef4e0a7a45165eaacb",
+    "sha256_copia": "3dbdc231b8827afe4cb733fdce3b35d1673d5058cb2d26ef4e0a7a45165eaacb",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/scan_test.go",
+    "destino": "pkgs/ryogami/daemon/scan_test.go",
+    "sha256_origen": "d826fead57ebd28572b34b8fae3376c9820a1170952fe95562994ac6374e1c95",
+    "sha256_copia": "d826fead57ebd28572b34b8fae3376c9820a1170952fe95562994ac6374e1c95",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/store.go",
+    "destino": "pkgs/ryogami/daemon/store.go",
+    "sha256_origen": "7db5bfb81dd60c25b1ec89ec1e899a4be06ff7be32014e2e44ac41237db64d07",
+    "sha256_copia": "7db5bfb81dd60c25b1ec89ec1e899a4be06ff7be32014e2e44ac41237db64d07",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/surface.go",
+    "destino": "pkgs/ryogami/daemon/surface.go",
+    "sha256_origen": "a99616bb1aa45dca45d19dd9e8258c5d601d3e3c4f03bbb6f92bf9f3ec753961",
+    "sha256_copia": "a99616bb1aa45dca45d19dd9e8258c5d601d3e3c4f03bbb6f92bf9f3ec753961",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/topics.go",
+    "destino": "pkgs/ryogami/daemon/topics.go",
+    "sha256_origen": "7ffb9ebfe5169cbbb1b7dd9c205279d7e4a2beb7cc43a047ee8be387447180d0",
+    "sha256_copia": "7ffb9ebfe5169cbbb1b7dd9c205279d7e4a2beb7cc43a047ee8be387447180d0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/transitions.go",
+    "destino": "pkgs/ryogami/daemon/transitions.go",
+    "sha256_origen": "a06fa5dd996d8aae475be5e743caad394904094da091f44f3a402d322de15217",
+    "sha256_copia": "a06fa5dd996d8aae475be5e743caad394904094da091f44f3a402d322de15217",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/upscale.go",
+    "destino": "pkgs/ryogami/daemon/upscale.go",
+    "sha256_origen": "0cb65f294924c8e35c51e9860f94497be845a47b07837661826598c18b1343ef",
+    "sha256_copia": "0cb65f294924c8e35c51e9860f94497be845a47b07837661826598c18b1343ef",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/upscale_test.go",
+    "destino": "pkgs/ryogami/daemon/upscale_test.go",
+    "sha256_origen": "ff6f25db3fd0fc115df8d954a2110919e9363fdaa6573a906828b69e63ada8fc",
+    "sha256_copia": "ff6f25db3fd0fc115df8d954a2110919e9363fdaa6573a906828b69e63ada8fc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/verbs.go",
+    "destino": "pkgs/ryogami/daemon/verbs.go",
+    "sha256_origen": "57518221c9428c852307c101f7928419fa47bc9c415b10abd86794a5e372f15a",
+    "sha256_copia": "57518221c9428c852307c101f7928419fa47bc9c415b10abd86794a5e372f15a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/video.go",
+    "destino": "pkgs/ryogami/daemon/video.go",
+    "sha256_origen": "23368103769c1acc11d40f0fc09888cf987294bf4c5122fae705aeeb616363f6",
+    "sha256_copia": "23368103769c1acc11d40f0fc09888cf987294bf4c5122fae705aeeb616363f6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/video_test.go",
+    "destino": "pkgs/ryogami/daemon/video_test.go",
+    "sha256_origen": "6e8899706005516fb64997a9e01a5f08c1ffd00fdf842623315480d21eee02bf",
+    "sha256_copia": "6e8899706005516fb64997a9e01a5f08c1ffd00fdf842623315480d21eee02bf",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/watch.go",
+    "destino": "pkgs/ryogami/daemon/watch.go",
+    "sha256_origen": "45551b7a9928dcad39b9fdba599c76ba9f3947d4d3d719fd5975803b639961a8",
+    "sha256_copia": "45551b7a9928dcad39b9fdba599c76ba9f3947d4d3d719fd5975803b639961a8",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/daemon/watch_test.go",
+    "destino": "pkgs/ryogami/daemon/watch_test.go",
+    "sha256_origen": "ca51fc7d577d2fcfbe569004deb80ce2b64a661acbc6c09d95ff4bc3961282fe",
+    "sha256_copia": "ca51fc7d577d2fcfbe569004deb80ce2b64a661acbc6c09d95ff4bc3961282fe",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/default.nix",
+    "destino": "pkgs/ryogami/default.nix",
+    "sha256_origen": "c4b6939ca62327e029d37ecbc74e56a6fd1328130eea815061f5ebc049c14255",
+    "sha256_copia": "c4b6939ca62327e029d37ecbc74e56a6fd1328130eea815061f5ebc049c14255",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/LICENSE",
+    "destino": "pkgs/ryogami/wall-ui/LICENSE",
+    "sha256_origen": "47d9cfc2637ea540f789386f66c403d8cbc31a497258647e140ace8e97fbe4eb",
+    "sha256_copia": "47d9cfc2637ea540f789386f66c403d8cbc31a497258647e140ace8e97fbe4eb",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/config.json.example",
+    "destino": "pkgs/ryogami/wall-ui/data/config.json.example",
+    "sha256_origen": "52dcda2be02391ec9da349acd13ced4378e103b5be9cc2618dc6bcbdb44b271d",
+    "sha256_copia": "52dcda2be02391ec9da349acd13ced4378e103b5be9cc2618dc6bcbdb44b271d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/ghostty.conf",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/ghostty.conf",
+    "sha256_origen": "92bc973eaab5e59f09549db182606d8914bbe3018cc918127939f13a98241761",
+    "sha256_copia": "92bc973eaab5e59f09549db182606d8914bbe3018cc918127939f13a98241761",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/kde-colors.colors",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/kde-colors.colors",
+    "sha256_origen": "5857fe0203d6e5f69d5479062fb1ce8cfad430afbef30dabbab29a631f88fcf7",
+    "sha256_copia": "5857fe0203d6e5f69d5479062fb1ce8cfad430afbef30dabbab29a631f88fcf7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/kitty.conf",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/kitty.conf",
+    "sha256_origen": "b49e3cb924d65ab5929a580302e61acf607028f757ce7c5009e1bfe6dc79992c",
+    "sha256_copia": "b49e3cb924d65ab5929a580302e61acf607028f757ce7c5009e1bfe6dc79992c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/niri-colors.kdl",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/niri-colors.kdl",
+    "sha256_origen": "a8bd86234635cc8c1d1ca496518983894edf8d55e631f54e5cd9d87e26484d8c",
+    "sha256_copia": "a8bd86234635cc8c1d1ca496518983894edf8d55e631f54e5cd9d87e26484d8c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/omp-env.sh",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/omp-env.sh",
+    "sha256_origen": "fe318373804c6726c9e1fcd7e9eb6fcdb7e271594e159c80de8f3fd0cc20c1f3",
+    "sha256_copia": "fe318373804c6726c9e1fcd7e9eb6fcdb7e271594e159c80de8f3fd0cc20c1f3",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/omp.json",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/omp.json",
+    "sha256_origen": "d79968f65170515cb99de119d20cceb53f795f80606f638b598b9b830a160b29",
+    "sha256_copia": "d79968f65170515cb99de119d20cceb53f795f80606f638b598b9b830a160b29",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/qt6ct-colors.conf",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/qt6ct-colors.conf",
+    "sha256_origen": "0a1cb779894dc8d7ae12d95b78933cc28c9e07042842f8257f4f99623a7501a1",
+    "sha256_copia": "0a1cb779894dc8d7ae12d95b78933cc28c9e07042842f8257f4f99623a7501a1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/quickshell-colors.json",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/quickshell-colors.json",
+    "sha256_origen": "d35521572f4ec55b0f829a4dd11ab456bbb46b4ebf1b9521743e172787b2be5a",
+    "sha256_copia": "d35521572f4ec55b0f829a4dd11ab456bbb46b4ebf1b9521743e172787b2be5a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/spicetify.css",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/spicetify.css",
+    "sha256_origen": "1949fb093f0602811652bcfd67e9b501fa375e8fa2e90630e9e64ef1342bfa5e",
+    "sha256_copia": "1949fb093f0602811652bcfd67e9b501fa375e8fa2e90630e9e64ef1342bfa5e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/spicetify.ini",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/spicetify.ini",
+    "sha256_origen": "fc4c5b806254dd4ebeac20f64153161a628669fd110f78bd5277dfe0ff6b5fca",
+    "sha256_copia": "fc4c5b806254dd4ebeac20f64153161a628669fd110f78bd5277dfe0ff6b5fca",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/vesktop.css",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/vesktop.css",
+    "sha256_origen": "52cb55e09970a0e45729e84457042a79ae3af1a79ae61f397e62510398b0b3a9",
+    "sha256_copia": "52cb55e09970a0e45729e84457042a79ae3af1a79ae61f397e62510398b0b3a9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/vscode-theme.json",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/vscode-theme.json",
+    "sha256_origen": "fc75f6ecbe02ae4cdb3c6f9202cae195f24437accc1711c4ba7141182da7e8bf",
+    "sha256_copia": "fc75f6ecbe02ae4cdb3c6f9202cae195f24437accc1711c4ba7141182da7e8bf",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/yazi-theme.toml",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/yazi-theme.toml",
+    "sha256_origen": "4fa064009d9d6a7399c21d439b1b0ec233a51219a6490d5313b460ca91a29e36",
+    "sha256_copia": "4fa064009d9d6a7399c21d439b1b0ec233a51219a6490d5313b460ca91a29e36",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/zen-content.css",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/zen-content.css",
+    "sha256_origen": "b1af803ebbe6a4a56d528981668d7430ca63d5e818b0900ea25daec52c2130d1",
+    "sha256_copia": "b1af803ebbe6a4a56d528981668d7430ca63d5e818b0900ea25daec52c2130d1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/matugen/templates/zen.css",
+    "destino": "pkgs/ryogami/wall-ui/data/matugen/templates/zen.css",
+    "sha256_origen": "6b25ceb50881dbe86ca82fd2d889e410634b5650c1fb6a697640e61c73c0e614",
+    "sha256_copia": "6b25ceb50881dbe86ca82fd2d889e410634b5650c1fb6a697640e61c73c0e614",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/ryogami-wall.desktop",
+    "destino": "pkgs/ryogami/wall-ui/data/ryogami-wall.desktop",
+    "sha256_origen": "86139ed569b4f577b4a28cfeaa2e65173a0f1df9c8a430575b396f8ea945a682",
+    "sha256_copia": "86139ed569b4f577b4a28cfeaa2e65173a0f1df9c8a430575b396f8ea945a682",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/scripts/reload-kde.sh",
+    "destino": "pkgs/ryogami/wall-ui/data/scripts/reload-kde.sh",
+    "sha256_origen": "8dc30e4cd00249ce8cbeba2560ff5e4c955498b0de606476bf4a29ef97b4727f",
+    "sha256_copia": "8dc30e4cd00249ce8cbeba2560ff5e4c955498b0de606476bf4a29ef97b4727f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/data/scripts/reload-niri.sh",
+    "destino": "pkgs/ryogami/wall-ui/data/scripts/reload-niri.sh",
+    "sha256_origen": "61817c1c6cc36975a87ba8944e174dcab14222a2d318169fca204185133dd32b",
+    "sha256_copia": "61817c1c6cc36975a87ba8944e174dcab14222a2d318169fca204185133dd32b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/Colors.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/Colors.qml",
+    "sha256_origen": "c5bd6411e1819d59acca8f1db3d381f567c60f7c9633d2ab27ea12d754ec2477",
+    "sha256_copia": "c5bd6411e1819d59acca8f1db3d381f567c60f7c9633d2ab27ea12d754ec2477",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/Config.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/Config.qml",
+    "sha256_origen": "9e2039a849449ae470a7ab7dc7deba7d7a98518b3b214930df7a660d1a60f16b",
+    "sha256_copia": "9e2039a849449ae470a7ab7dc7deba7d7a98518b3b214930df7a660d1a60f16b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/StyledToolTip.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/StyledToolTip.qml",
+    "sha256_origen": "f4f3a6f7395786b9d365869967a56faa29702fb5178e007f22d52c15a04cf563",
+    "sha256_copia": "f4f3a6f7395786b9d365869967a56faa29702fb5178e007f22d52c15a04cf563",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/ColorWheel.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/ColorWheel.qml",
+    "sha256_origen": "a46be560434c2137b6f4e7a6e738c94fe09743c9ce486df6ddde34fd407dff58",
+    "sha256_copia": "a46be560434c2137b6f4e7a6e738c94fe09743c9ce486df6ddde34fd407dff58",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/DimOverlay.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/DimOverlay.qml",
+    "sha256_origen": "78dbf17d7ea7803df4df017870820dfa214fc4995518cc46eead893f917e1f07",
+    "sha256_copia": "78dbf17d7ea7803df4df017870820dfa214fc4995518cc46eead893f917e1f07",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/IntegrationEditorRow.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/IntegrationEditorRow.qml",
+    "sha256_origen": "cc6a17b90403d3ccf0c737815da857ab4fa2e4a36a63f30893865d4c78e9d971",
+    "sha256_copia": "cc6a17b90403d3ccf0c737815da857ab4fa2e4a36a63f30893865d4c78e9d971",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/RowAction.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/RowAction.qml",
+    "sha256_origen": "ff40b87d5a806c27b601ae517f77576aa096cc6083deaa5850de69cbe891fabc",
+    "sha256_copia": "ff40b87d5a806c27b601ae517f77576aa096cc6083deaa5850de69cbe891fabc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/RowColor.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/RowColor.qml",
+    "sha256_origen": "fac904889aef5d06985e42c0baf898d64ad84b329de3d98514f80bf111bba45c",
+    "sha256_copia": "fac904889aef5d06985e42c0baf898d64ad84b329de3d98514f80bf111bba45c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/RowDropdown.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/RowDropdown.qml",
+    "sha256_origen": "545e5afa43dc81b7d9fdeb61ed6c40557c73da94717f8bf19e207805346b4e6e",
+    "sha256_copia": "545e5afa43dc81b7d9fdeb61ed6c40557c73da94717f8bf19e207805346b4e6e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/RowInput.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/RowInput.qml",
+    "sha256_origen": "bfb7927cead05e5661cdedd9b6dfe897f248b9abda30843e94d38d4adf6b39e4",
+    "sha256_copia": "bfb7927cead05e5661cdedd9b6dfe897f248b9abda30843e94d38d4adf6b39e4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/RowTextInput.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/RowTextInput.qml",
+    "sha256_origen": "480949d001d21b4bdbfb3a2b2691e0be458004622692f1e41f57f40f74615c67",
+    "sha256_copia": "480949d001d21b4bdbfb3a2b2691e0be458004622692f1e41f57f40f74615c67",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/RowToggle.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/RowToggle.qml",
+    "sha256_origen": "122a83cebd516182f10c2ffac037be21d69277665dd801d0b8c52cfce06ab83e",
+    "sha256_copia": "122a83cebd516182f10c2ffac037be21d69277665dd801d0b8c52cfce06ab83e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SectionTitle.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SectionTitle.qml",
+    "sha256_origen": "cc23724c465d6a901d2d4edf87a2882c28f6b72e11ca6d2bcd7b79f9d94bd897",
+    "sha256_copia": "cc23724c465d6a901d2d4edf87a2882c28f6b72e11ca6d2bcd7b79f9d94bd897",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsCard.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsCard.qml",
+    "sha256_origen": "e7d54307b8af25298b5b88d9ba8eba8c385d86ad993fc4cb96cb48a751aeedc2",
+    "sha256_copia": "e7d54307b8af25298b5b88d9ba8eba8c385d86ad993fc4cb96cb48a751aeedc2",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsDropdown.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsDropdown.qml",
+    "sha256_origen": "b587a30a905a3c7675cce9008871de6b5a51ea1c161a242d850bc7caf846edd9",
+    "sha256_copia": "b587a30a905a3c7675cce9008871de6b5a51ea1c161a242d850bc7caf846edd9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsInput.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsInput.qml",
+    "sha256_origen": "bc140433b32801de33067824c9cd0d692cf80da4c1eedd8c60d5a8f6e27784ce",
+    "sha256_copia": "bc140433b32801de33067824c9cd0d692cf80da4c1eedd8c60d5a8f6e27784ce",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsRow.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsRow.qml",
+    "sha256_origen": "b142ee5488d96dc04f8a99c08464e84ec5949d2b6572687bee496056c7ca023d",
+    "sha256_copia": "b142ee5488d96dc04f8a99c08464e84ec5949d2b6572687bee496056c7ca023d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsSlider.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsSlider.qml",
+    "sha256_origen": "69659df7955f9735ba9a243a95a9a2dbe5a930bce224cb8e491ace3ff7c157d5",
+    "sha256_copia": "69659df7955f9735ba9a243a95a9a2dbe5a930bce224cb8e491ace3ff7c157d5",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsTextInput.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsTextInput.qml",
+    "sha256_origen": "0016167bdeccc1b481c42a65858900fbe4512d4fdbab22716342569395f88d6b",
+    "sha256_copia": "0016167bdeccc1b481c42a65858900fbe4512d4fdbab22716342569395f88d6b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/SettingsToggle.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/SettingsToggle.qml",
+    "sha256_origen": "e667702de7d26701a0775108751c3338079d1f4b8b25cfa648d5aab5d6f965b0",
+    "sha256_copia": "e667702de7d26701a0775108751c3338079d1f4b8b25cfa648d5aab5d6f965b0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/WeProperty.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/WeProperty.qml",
+    "sha256_origen": "43c105009bae722ffdc46463ed66e4d0512f6028759d7d6554fe7f5ff50419da",
+    "sha256_copia": "43c105009bae722ffdc46463ed66e4d0512f6028759d7d6554fe7f5ff50419da",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/components/qmldir",
+    "destino": "pkgs/ryogami/wall-ui/qml/components/qmldir",
+    "sha256_origen": "d7bbdb5c46918ba63fabf436b4f9fe40e3ffab439d5cb8f0b45b54784a53162e",
+    "sha256_copia": "d7bbdb5c46918ba63fabf436b4f9fe40e3ffab439d5cb8f0b45b54784a53162e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/qmldir",
+    "destino": "pkgs/ryogami/wall-ui/qml/qmldir",
+    "sha256_origen": "c0b8bc5e657d1717c6f87264870d07814f59bfb38f135df45383d611599b22e7",
+    "sha256_copia": "c0b8bc5e657d1717c6f87264870d07814f59bfb38f135df45383d611599b22e7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/BootstrapService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/BootstrapService.qml",
+    "sha256_origen": "e955a10250106629814b66b30a28341b00167121c3824ea715c4d0980aa771c8",
+    "sha256_copia": "e955a10250106629814b66b30a28341b00167121c3824ea715c4d0980aa771c8",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/ColorMapping.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/ColorMapping.qml",
+    "sha256_origen": "87b589711f03070aa0e39a43cb197b4ae1aacd8c9a201684639fbf4cf342ce58",
+    "sha256_copia": "87b589711f03070aa0e39a43cb197b4ae1aacd8c9a201684639fbf4cf342ce58",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/DaemonClient.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/DaemonClient.qml",
+    "sha256_origen": "0b45e9cb106b689baecf0a1d88d0f83223f0551cd40cabfab66ec3f652e8db5f",
+    "sha256_copia": "0b45e9cb106b689baecf0a1d88d0f83223f0551cd40cabfab66ec3f652e8db5f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/EffectsService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/EffectsService.qml",
+    "sha256_origen": "fa782eba262fd6f4713c14fe7590e8c931dc373078c63443acd56b12ca6fc87c",
+    "sha256_copia": "fa782eba262fd6f4713c14fe7590e8c931dc373078c63443acd56b12ca6fc87c",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/FileMetadataService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/FileMetadataService.qml",
+    "sha256_origen": "a56b5d4f59c9e232cc8baa2c6545653a7c1822da04a28ed506885fb3865bb042",
+    "sha256_copia": "a56b5d4f59c9e232cc8baa2c6545653a7c1822da04a28ed506885fb3865bb042",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/ImageOptimizeService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/ImageOptimizeService.qml",
+    "sha256_origen": "ba8f7ddcb32f0e49bd1b01f8352aec0af9df6a569d16f26e93d398c489096073",
+    "sha256_copia": "ba8f7ddcb32f0e49bd1b01f8352aec0af9df6a569d16f26e93d398c489096073",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/ImageService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/ImageService.qml",
+    "sha256_origen": "660f0ba7735c0fce69f6cbffa924f112238293c52a0f85d500ab722fa8076d0d",
+    "sha256_copia": "660f0ba7735c0fce69f6cbffa924f112238293c52a0f85d500ab722fa8076d0d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/PalettePreview.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/PalettePreview.qml",
+    "sha256_origen": "9ad58b44998e85dfb181a6896c39839194c4d30f410482167ad832dd79cedfa1",
+    "sha256_copia": "9ad58b44998e85dfb181a6896c39839194c4d30f410482167ad832dd79cedfa1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/SteamDownloadService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/SteamDownloadService.qml",
+    "sha256_origen": "3370d94765348e47d987fcde1190456e104866febdf93bde2c81a554a2ebf5b9",
+    "sha256_copia": "3370d94765348e47d987fcde1190456e104866febdf93bde2c81a554a2ebf5b9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/VideoConvertService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/VideoConvertService.qml",
+    "sha256_origen": "53695f8511b468d35676100cb3a0fccf8d0eacea7666e534b86494bea05aa4f4",
+    "sha256_copia": "53695f8511b468d35676100cb3a0fccf8d0eacea7666e534b86494bea05aa4f4",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/WatcherService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/WatcherService.qml",
+    "sha256_origen": "60709b43374391e50cca50d3590d5a562a2efcc8a91b07c0e2976e10c42da910",
+    "sha256_copia": "60709b43374391e50cca50d3590d5a562a2efcc8a91b07c0e2976e10c42da910",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/services/qmldir",
+    "destino": "pkgs/ryogami/wall-ui/qml/services/qmldir",
+    "sha256_origen": "401fc7cb3d3c04b086ae29ba7c6f4001ece4d2117581799b78db1cb19865290a",
+    "sha256_copia": "401fc7cb3d3c04b086ae29ba7c6f4001ece4d2117581799b78db1cb19865290a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/style.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/style.qml",
+    "sha256_origen": "59cf2e8ed3dcfa358a53653c3c8e1e610143f573989b4c717686584e61d84557",
+    "sha256_copia": "59cf2e8ed3dcfa358a53653c3c8e1e610143f573989b4c717686584e61d84557",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/validate-load.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/validate-load.qml",
+    "sha256_origen": "40a97ebbb023dfcf15259be0b40ac2470e3f782117f362767db7a76465900c52",
+    "sha256_copia": "40a97ebbb023dfcf15259be0b40ac2470e3f782117f362767db7a76465900c52",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/ActionButton.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/ActionButton.qml",
+    "sha256_origen": "7d5776fbfa4b925a67e610e70a749dc4df5345b080e56c5ae3084f2074a9320b",
+    "sha256_copia": "7d5776fbfa4b925a67e610e70a749dc4df5345b080e56c5ae3084f2074a9320b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/BlurFramePreview.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/BlurFramePreview.qml",
+    "sha256_origen": "6a92100768d5498e5b153d4020c983ceb3490d66f41ac10675d41603b3f07f27",
+    "sha256_copia": "6a92100768d5498e5b153d4020c983ceb3490d66f41ac10675d41603b3f07f27",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/BrowseSurface.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/BrowseSurface.qml",
+    "sha256_origen": "2353a638594ac5fbc9b785a031c2f3ec2d591b8a0133a116a9cb25cbf056ec9f",
+    "sha256_copia": "2353a638594ac5fbc9b785a031c2f3ec2d591b8a0133a116a9cb25cbf056ec9f",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/CacheProgressBar.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/CacheProgressBar.qml",
+    "sha256_origen": "4f0396c037f7b06b3ce8b5bba6ae65beeb0ebb65f7fa0d246b8208581766e428",
+    "sha256_copia": "4f0396c037f7b06b3ce8b5bba6ae65beeb0ebb65f7fa0d246b8208581766e428",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/ColorFilterStrip.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/ColorFilterStrip.qml",
+    "sha256_origen": "8939977a5ade009b01613ffea42cb7abc3ea28c4a4e15ba6d4f4b5075de1cb24",
+    "sha256_copia": "8939977a5ade009b01613ffea42cb7abc3ea28c4a4e15ba6d4f4b5075de1cb24",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/FilterBar.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/FilterBar.qml",
+    "sha256_origen": "a4a8648cd0d6f415ffa72f6eb9cc0e13299951103f2f4c37b4e5f993546323e6",
+    "sha256_copia": "a4a8648cd0d6f415ffa72f6eb9cc0e13299951103f2f4c37b4e5f993546323e6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/FilterButton.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/FilterButton.qml",
+    "sha256_origen": "e0c5f63f528f998216aeb99b680c44fa7ae9d8fd268f91ac31d55209b2b4b487",
+    "sha256_copia": "e0c5f63f528f998216aeb99b680c44fa7ae9d8fd268f91ac31d55209b2b4b487",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/FilterDropdown.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/FilterDropdown.qml",
+    "sha256_origen": "2f718e789b1ae081e7d3125dc6cffd19005c6e7d8dc159f44dab09dbb843d153",
+    "sha256_copia": "2f718e789b1ae081e7d3125dc6cffd19005c6e7d8dc159f44dab09dbb843d153",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/FolderFilter.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/FolderFilter.qml",
+    "sha256_origen": "df839deccb41290d759e72146f6f2050a9d20043bd0b5b270b52c9db3e2079d3",
+    "sha256_copia": "df839deccb41290d759e72146f6f2050a9d20043bd0b5b270b52c9db3e2079d3",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/HexDelegate.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/HexDelegate.qml",
+    "sha256_origen": "c0b09a65c3e5f4a4ceea06a889dfd6ede6934661ef5668ed598882892b23835a",
+    "sha256_copia": "c0b09a65c3e5f4a4ceea06a889dfd6ede6934661ef5668ed598882892b23835a",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/LibraryBrowser.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/LibraryBrowser.qml",
+    "sha256_origen": "a6e939535a6883746babcee509f4b8f9a0e8a9e8b70c25335337bdbe89b09e24",
+    "sha256_copia": "a6e939535a6883746babcee509f4b8f9a0e8a9e8b70c25335337bdbe89b09e24",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/MockDesktop.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/MockDesktop.qml",
+    "sha256_origen": "1ebf12e790630fb664236f909a9eff4f816b629bea6dbde56d00f3d59cea0a22",
+    "sha256_copia": "1ebf12e790630fb664236f909a9eff4f816b629bea6dbde56d00f3d59cea0a22",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/MonitorPickerPopup.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/MonitorPickerPopup.qml",
+    "sha256_origen": "c8119b54db485b025ffee51b5a18e2276dc75665348a7121b2db94532c137a85",
+    "sha256_copia": "c8119b54db485b025ffee51b5a18e2276dc75665348a7121b2db94532c137a85",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/MosaicCell.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/MosaicCell.qml",
+    "sha256_origen": "9164a18a8828e7e31bdf9985203f4d4d09b04a4d08c0b29ab513640ecd8e9dc9",
+    "sha256_copia": "9164a18a8828e7e31bdf9985203f4d4d09b04a4d08c0b29ab513640ecd8e9dc9",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/MosaicView.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/MosaicView.qml",
+    "sha256_origen": "02eb4c8c9367c96afb4adcdd3ba123913888eca9ee2566eceebd1dff2bddbb81",
+    "sha256_copia": "02eb4c8c9367c96afb4adcdd3ba123913888eca9ee2566eceebd1dff2bddbb81",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/RiceWorkshop.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/RiceWorkshop.qml",
+    "sha256_origen": "297cf48ca264159dacf3991ed760208c07c73d596424bdb240c4f063d7bb349b",
+    "sha256_copia": "297cf48ca264159dacf3991ed760208c07c73d596424bdb240c4f063d7bb349b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/RyowallsSource.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/RyowallsSource.qml",
+    "sha256_origen": "5e4e3560b0e7662d3729ada957dfe2a2cd906d3ba13e36773be8b4b4d52dbf98",
+    "sha256_copia": "5e4e3560b0e7662d3729ada957dfe2a2cd906d3ba13e36773be8b4b4d52dbf98",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SettingsCombo.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SettingsCombo.qml",
+    "sha256_origen": "f6c0afede6fb695a484007f9651a0853135ef498085d7f0ffccd247499c7a8e8",
+    "sha256_copia": "f6c0afede6fb695a484007f9651a0853135ef498085d7f0ffccd247499c7a8e8",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SettingsInput.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SettingsInput.qml",
+    "sha256_origen": "f5a4912e57bae74077dc6b8af9018f26c6b30c63e9cd27fdfe25be25aa87e154",
+    "sha256_copia": "f5a4912e57bae74077dc6b8af9018f26c6b30c63e9cd27fdfe25be25aa87e154",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SettingsPanel.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SettingsPanel.qml",
+    "sha256_origen": "02903f425613a509c67d85883353dcea75bc2bf872a26ec267253c27347ea3b0",
+    "sha256_copia": "02903f425613a509c67d85883353dcea75bc2bf872a26ec267253c27347ea3b0",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SettingsSlider.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SettingsSlider.qml",
+    "sha256_origen": "335f2d7c5c51d6c9a155809b101743afbf4f8becb1ec16d6e974f947b8bb26fc",
+    "sha256_copia": "335f2d7c5c51d6c9a155809b101743afbf4f8becb1ec16d6e974f947b8bb26fc",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SettingsTextInput.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SettingsTextInput.qml",
+    "sha256_origen": "df8d9a5fd84af1fb33e2082cda9f67bdf9986f759ad95a6b723618d6a6ad4aab",
+    "sha256_copia": "df8d9a5fd84af1fb33e2082cda9f67bdf9986f759ad95a6b723618d6a6ad4aab",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SettingsToggle.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SettingsToggle.qml",
+    "sha256_origen": "8a618475a114b0a24a1ffc227aee904286b4f1a4aeb1d158c064a9b3c0d1c839",
+    "sha256_copia": "8a618475a114b0a24a1ffc227aee904286b4f1a4aeb1d158c064a9b3c0d1c839",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/ShaderPicker.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/ShaderPicker.qml",
+    "sha256_origen": "4096b282c0edfc7b5e83a8908171b28922a488a87e8385268faf001b3df8ac93",
+    "sha256_copia": "4096b282c0edfc7b5e83a8908171b28922a488a87e8385268faf001b3df8ac93",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SliceDelegate.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SliceDelegate.qml",
+    "sha256_origen": "f7ab988b17074a125b679e7758c25d11e9983e7413407c90e4ca01fae7613f2b",
+    "sha256_copia": "f7ab988b17074a125b679e7758c25d11e9983e7413407c90e4ca01fae7613f2b",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SteamWorkshopBrowser.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SteamWorkshopBrowser.qml",
+    "sha256_origen": "4fe143bb3a0c8167afbb113b3b365499548c8b78e18664a00006262ace77d1ee",
+    "sha256_copia": "4fe143bb3a0c8167afbb113b3b365499548c8b78e18664a00006262ace77d1ee",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SteamWorkshopDownloadProc.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SteamWorkshopDownloadProc.qml",
+    "sha256_origen": "52ececd5c9c5e3aa0fb6ed4d394ba190f3cf6ef09ca1df00262e6a4d4c72e955",
+    "sha256_copia": "52ececd5c9c5e3aa0fb6ed4d394ba190f3cf6ef09ca1df00262e6a4d4c72e955",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/SteamWorkshopService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/SteamWorkshopService.qml",
+    "sha256_origen": "4417a8647a75b3bce55f05bbf11a9a69380e79e6cea5eeeee0c014ad434d85ff",
+    "sha256_copia": "4417a8647a75b3bce55f05bbf11a9a69380e79e6cea5eeeee0c014ad434d85ff",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/WallhavenBrowser.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/WallhavenBrowser.qml",
+    "sha256_origen": "c427cc7a902d4e3a27d54b1696aeee4675f34bfa6b1acb4f96eeeb4383e4f804",
+    "sha256_copia": "c427cc7a902d4e3a27d54b1696aeee4675f34bfa6b1acb4f96eeeb4383e4f804",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/WallhavenDownloadProc.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/WallhavenDownloadProc.qml",
+    "sha256_origen": "4a64c4b95549072674c25460087416a43b6a0fc8c61d9b3cf0c8afa6d30eac05",
+    "sha256_copia": "4a64c4b95549072674c25460087416a43b6a0fc8c61d9b3cf0c8afa6d30eac05",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/WallhavenService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/WallhavenService.qml",
+    "sha256_origen": "77eef69911eba76bd8d628407a38c80895d41e30413522747ef395ce88e87bc5",
+    "sha256_copia": "77eef69911eba76bd8d628407a38c80895d41e30413522747ef395ce88e87bc5",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/WallpaperSelector.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/WallpaperSelector.qml",
+    "sha256_origen": "9ce1c1d12aa6ec9b013ac070306a7d52cd8853fbfd3b2902e32f67f24ac6827e",
+    "sha256_copia": "9ce1c1d12aa6ec9b013ac070306a7d52cd8853fbfd3b2902e32f67f24ac6827e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/WallpaperSelectorService.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/WallpaperSelectorService.qml",
+    "sha256_origen": "0a9d7a929c3bef059adea28a8ece1093e10ee271ef6275bc7d2c27ff93489672",
+    "sha256_copia": "0a9d7a929c3bef059adea28a8ece1093e10ee271ef6275bc7d2c27ff93489672",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/qmldir",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/qmldir",
+    "sha256_origen": "861f8733bc7446ba572bdacc072351a50f3c4ce2e0a7f014cc4a7e9b3fbd44c1",
+    "sha256_copia": "861f8733bc7446ba572bdacc072351a50f3c4ce2e0a7f014cc4a7e9b3fbd44c1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/ComfortSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/ComfortSettings.qml",
+    "sha256_origen": "2f7677f483bfa4adc2e671cb4777abdf34d75b4293edb71c09cd2b3b410ee71d",
+    "sha256_copia": "2f7677f483bfa4adc2e671cb4777abdf34d75b4293edb71c09cd2b3b410ee71d",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/EditSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/EditSettings.qml",
+    "sha256_origen": "5cddc2cae318d920437d903193093a068bbe799186a983ca537bf579ce39e3a6",
+    "sha256_copia": "5cddc2cae318d920437d903193093a068bbe799186a983ca537bf579ce39e3a6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/GeneralSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/GeneralSettings.qml",
+    "sha256_origen": "6bea0da62ce3e6edefc2e39f2473f4491f7a62f99e053bf77432d04acd796a66",
+    "sha256_copia": "6bea0da62ce3e6edefc2e39f2473f4491f7a62f99e053bf77432d04acd796a66",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/KeybindsSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/KeybindsSettings.qml",
+    "sha256_origen": "ca1b9fb1ee31e5c890c685d0aedaec3a857a61fd959268505de0f9c8f94665ba",
+    "sha256_copia": "ca1b9fb1ee31e5c890c685d0aedaec3a857a61fd959268505de0f9c8f94665ba",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/LightingSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/LightingSettings.qml",
+    "sha256_origen": "3d02758e9ab400e5cee76a394776c720ba0c103d9ff7aa980f1d51bb8bee5ca1",
+    "sha256_copia": "3d02758e9ab400e5cee76a394776c720ba0c103d9ff7aa980f1d51bb8bee5ca1",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/MatugenSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/MatugenSettings.qml",
+    "sha256_origen": "83100942c126a56b46da2901691792843e59dc80b81bb0b88e4b39a5be822561",
+    "sha256_copia": "83100942c126a56b46da2901691792843e59dc80b81bb0b88e4b39a5be822561",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/NiriSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/NiriSettings.qml",
+    "sha256_origen": "3d1d66fb669537f43462a9debbf0a0976799a7ce55b85161db2c59f17e2c2b93",
+    "sha256_copia": "3d1d66fb669537f43462a9debbf0a0976799a7ce55b85161db2c59f17e2c2b93",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/PaperSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/PaperSettings.qml",
+    "sha256_origen": "06a41b1045dbef904ca93d5093e8e370aabaacf35e07baae905e3fd89767c0a6",
+    "sha256_copia": "06a41b1045dbef904ca93d5093e8e370aabaacf35e07baae905e3fd89767c0a6",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/PathsSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/PathsSettings.qml",
+    "sha256_origen": "ab7c70199f81b83060c10fc1dce68e0a63fc26906c58d766eee3e3ab2bae509e",
+    "sha256_copia": "ab7c70199f81b83060c10fc1dce68e0a63fc26906c58d766eee3e3ab2bae509e",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/PerformanceSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/PerformanceSettings.qml",
+    "sha256_origen": "16300cfad919065ea6db8c65aa20e16c4ee6614cc513defd2fdfbf315c3b1e04",
+    "sha256_copia": "16300cfad919065ea6db8c65aa20e16c4ee6614cc513defd2fdfbf315c3b1e04",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/PlaylistSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/PlaylistSettings.qml",
+    "sha256_origen": "0a5d5152a2a83f667c1b3ef14611c878bd3bfd764bc2395cbaf35b70f7ad6a62",
+    "sha256_copia": "0a5d5152a2a83f667c1b3ef14611c878bd3bfd764bc2395cbaf35b70f7ad6a62",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/PostprocessingSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/PostprocessingSettings.qml",
+    "sha256_origen": "b58040ca12e499694afc7c1dc79858f3138d7422fcf3600832ae76325962e0e5",
+    "sha256_copia": "b58040ca12e499694afc7c1dc79858f3138d7422fcf3600832ae76325962e0e5",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/SelectorSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/SelectorSettings.qml",
+    "sha256_origen": "1dfd4710bb41007436208bfbc1cd2bcf95726946bbbe4e0dd8b130873cbd44d8",
+    "sha256_copia": "1dfd4710bb41007436208bfbc1cd2bcf95726946bbbe4e0dd8b130873cbd44d8",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/SortSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/SortSettings.qml",
+    "sha256_origen": "5a58fd01eae1d057b9cefaccf8f06515d226ea2e1fdca16b9a95ed4e370a7bf7",
+    "sha256_copia": "5a58fd01eae1d057b9cefaccf8f06515d226ea2e1fdca16b9a95ed4e370a7bf7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/SteamSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/SteamSettings.qml",
+    "sha256_origen": "477dfef7492d029f5c98cdbc1a74feff27ba55238d1533f61efd091c8b7471ac",
+    "sha256_copia": "477dfef7492d029f5c98cdbc1a74feff27ba55238d1533f61efd091c8b7471ac",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/ThemeSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/ThemeSettings.qml",
+    "sha256_origen": "b398c886573cf9b03ad5aae26af328d617e98c83417c808469614e2ef2086320",
+    "sha256_copia": "b398c886573cf9b03ad5aae26af328d617e98c83417c808469614e2ef2086320",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/WallhavenSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/WallhavenSettings.qml",
+    "sha256_origen": "861ff4f9200b100f877e98fab36749cf1964b2a72719e6a10636ce87408427db",
+    "sha256_copia": "861ff4f9200b100f877e98fab36749cf1964b2a72719e6a10636ce87408427db",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/qml/wallpaper/settings/WallpaperEngineSettings.qml",
+    "destino": "pkgs/ryogami/wall-ui/qml/wallpaper/settings/WallpaperEngineSettings.qml",
+    "sha256_origen": "250d1fb06f723973952ae6a89385378ab665f7b2b56babf6f528908dfcc838e3",
+    "sha256_copia": "250d1fb06f723973952ae6a89385378ab665f7b2b56babf6f528908dfcc838e3",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/pkgs/ryogami/wall-ui/shell.qml",
+    "destino": "pkgs/ryogami/wall-ui/shell.qml",
+    "sha256_origen": "2b3ffb7ac6f33fbf1bdc7173da27b6ab6b74bd5a930298477f57095423319cb7",
+    "sha256_copia": "2b3ffb7ac6f33fbf1bdc7173da27b6ab6b74bd5a930298477f57095423319cb7",
+    "adaptacion": null
+  },
+  {
+    "origen": "/home/rolando/projects/dotfiles/opencode/.config/opencode/opencode.json",
+    "destino": "dotfiles/opencode/.config/opencode/opencode.json",
+    "sha256_origen": "60e87f5adf0ee74193698d740bb10664d1176b771f247594ec96c5d36ae3a703",
+    "sha256_copia": "f2e407032af1ed069eff43357fce24346d8c8edc31cb736ab9091c063f0ea0f9",
+    "adaptacion": "Se retiraron referencias a memorias personales. Solo se copió opencode.json."
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/modules/base.nix",
+    "destino": "modules/base.nix",
+    "sha256_origen": "cc03ada721813e1e2624a604cb4c3c3dceff98b526983419981a9679d2bbd4f1",
+    "sha256_copia": "4c05ff05047c12f94ffd3e35dc26289bbdb5326c506a6eaff986be754e8d74bf",
+    "adaptacion": "Integración compartida; ver docs/origen.md."
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/modules/boot.nix",
+    "destino": "modules/boot.nix",
+    "sha256_origen": "67ea25c9780b94b1f1524742bed36bda2e8c03f2c3efa5529fe446e475d5714f",
+    "sha256_copia": "67ea25c9780b94b1f1524742bed36bda2e8c03f2c3efa5529fe446e475d5714f",
+    "adaptacion": "Integración compartida; ver docs/origen.md."
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/modules/network.nix",
+    "destino": "modules/network.nix",
+    "sha256_origen": "d805cb3ae43df9ded9e8e12e4f9157c7b34f3fd09d7e94a331d530646e698d80",
+    "sha256_copia": "22ae598795d5e12bd26b27e04bd2b9689b9302d5dd553b3f1b07724f4fc6c90c",
+    "adaptacion": "Integración compartida; ver docs/origen.md."
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/modules/audio.nix",
+    "destino": "modules/audio.nix",
+    "sha256_origen": "26ea1dac2c3837c8b5757c7275de84c8e1a28bc6ee58692ab4df6938f6a2d4cc",
+    "sha256_copia": "5c0ae5dd53952a3296c8ccabb4fd57719c3274cf56c5bf38272851cd11f327fd",
+    "adaptacion": "Integración compartida; ver docs/origen.md."
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/modules/fonts.nix",
+    "destino": "modules/fonts.nix",
+    "sha256_origen": "1f89565c4d32338b58c7b5130fc0a8854a60c65f607c1e39ab040dd607afc3f5",
+    "sha256_copia": "1f89565c4d32338b58c7b5130fc0a8854a60c65f607c1e39ab040dd607afc3f5",
+    "adaptacion": "Integración compartida; ver docs/origen.md."
+  },
+  {
+    "origen": "/home/rolando/projects/nix-config/modules/desktop-hyprland.nix",
+    "destino": "modules/desktop-hyprland.nix",
+    "sha256_origen": "24ba1a30784093ca3ef9f8a3bae5e3c7664e76db84dafea45109a873f47334db",
+    "sha256_copia": "24ba1a30784093ca3ef9f8a3bae5e3c7664e76db84dafea45109a873f47334db",
+    "adaptacion": "Integración compartida; ver docs/origen.md."
+  }
+]

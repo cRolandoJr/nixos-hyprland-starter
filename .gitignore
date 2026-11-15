@@ -1,0 +1,12 @@
+# Archivos locales de trabajo y resultados de builds
+*.save
+*.swp
+*.swo
+*~
+/result
+/result-*
+/.direnv/
+__pycache__/
+*.pyc
+*.qcow2
+*.iso
