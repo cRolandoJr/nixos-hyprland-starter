@@ -68,10 +68,6 @@ in
       rebuild-boot = "nh os boot ~/projects/nix-config";
       update = "cd ~/projects/nix-config && nix flake update";
 
-      # Ajusta el scheduler de gaming, el perfil de energía y refresca Waybar.
-      # Los pasos son independientes: un fallo no impide intentar los siguientes.
-      battery-on = "sudo systemctl stop scx.service; powerprofilesctl set power-saver; pkill -RTMIN+11 waybar";
-      battery-off = "sudo systemctl start scx.service; powerprofilesctl set balanced; pkill -RTMIN+11 waybar";
       # Mismo criterio que nix.gc: `-d` borraba todas las generaciones y dejaba sin rollback.
       gc = "sudo nix-collect-garbage --delete-older-than 7d && nix-collect-garbage --delete-older-than 7d";
 

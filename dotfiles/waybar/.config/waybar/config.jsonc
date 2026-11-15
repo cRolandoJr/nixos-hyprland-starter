@@ -24,7 +24,6 @@
     "custom/agenda",
     "pulseaudio",
     "idle_inhibitor",
-    "custom/gamemode",
     "temperature",
     "battery",
     "clock",
@@ -182,7 +181,10 @@
   // Mantener pantalla despierta (inhibe hypridle mientras está activado).
   "idle_inhibitor": {
     "format": "{icon}",
-    "format-icons": { "activated": "<span size='12pt'></span>", "deactivated": "<span size='12pt'></span>" },
+    "format-icons": {
+      "activated": "<span size='12pt'></span>",
+      "deactivated": "<span size='12pt'></span>",
+    },
     "tooltip-format-activated": "Idle inhibido — la pantalla no se bloquea",
     "tooltip-format-deactivated": "Idle normal",
   },
@@ -193,7 +195,12 @@
   // Sin "drawer": es un contenedor, no un plegable.
   "group/sistema": {
     "orientation": "horizontal",
-    "modules": ["custom/nixos", "hyprland/workspaces", "custom/layout", "keyboard-state"]
+    "modules": [
+      "custom/nixos",
+      "hyprland/workspaces",
+      "custom/layout",
+      "keyboard-state",
+    ],
   },
 
   "custom/layout": {
@@ -202,18 +209,5 @@
     "format": "{}",
     "restart-interval": 3,
     "on-click": "hyprctl switchxkblayout current next",
-  },
-
-  // ─── Modo juego — control del scheduler scx ────────────────
-  //   El estado lo deriva de systemctl, no de un flag, así que no se
-  //   desincroniza si scx arranca o se para por otra vía.
-  "custom/gamemode": {
-    "exec": "$HOME/.config/hypr/scripts/waybar-gamemode.sh",
-    "return-type": "json",
-    "interval": 10,
-    "signal": 11,
-    "format": "{}",
-    "tooltip": true,
-    "on-click": "$HOME/.config/hypr/scripts/waybar-gamemode.sh toggle",
   },
 }

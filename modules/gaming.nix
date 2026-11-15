@@ -43,9 +43,4 @@
     rulesProvider = pkgs.ananicy-rules-cachyos;
   };
 
-  # scx_lavd: scheduler latency-aware (requiere kernel ≥ 6.12).
-  services.scx = {
-    enable = true;
-    scheduler = "scx_lavd";
-  };
 }

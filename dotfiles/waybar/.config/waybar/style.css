@@ -274,7 +274,6 @@ window#waybar {
   padding: 0 8px;
 }
 
-/* Modo juego: misma semántica que idle_inhibitor — cyan = activo (scx parado) */
 #custom-agenda {
   color: @fg-dim;
   padding: 0 6px;
