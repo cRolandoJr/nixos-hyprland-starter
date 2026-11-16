@@ -1,0 +1,43 @@
+name: "CI NixOS Hyprland Starter"
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+    
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+      - name: Install dependencies
+        run: pip install flake8
+      - name: Lint
+        run: flake8 .
+      - name: "waybar test"
+        run: python3 tests/test_waybar_nixos_status.py
+
+  nixos-flake-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v4
+
+      - name: "Install Nix"
+        uses: DeterminateSystems/nix-installer-action@main
+      - name: "Setup Magic Nix Cache"
+        uses: DeterminateSystems/magic-nix-cache-action@main
+      - name: "Nix Flake Check"
+        run: nix flake check
+      - name: "Evaluate NixOS hosts"
+        run: |
+          nix eval --raw .#nixosConfigurations.equipo.config.system.build.toplevel.drvPath
+          nix eval --raw .#nixosConfigurations.starter-vm.config.system.build.toplevel.drvPath
+
