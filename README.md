@@ -1,7 +1,7 @@
 # NixOS Hyprland Starter
 
 Una base personalizable de NixOS con Hyprland, Home Manager y dotfiles incluidos.
-Preparada a partir del escritorio de Rolando y probada mediante una instalación
+Preparada a partir de mi escritorio y probada mediante una instalación
 manual en VM. Cada persona mantiene su configuración y hardware en su propia copia.
 
 ## Instalar
