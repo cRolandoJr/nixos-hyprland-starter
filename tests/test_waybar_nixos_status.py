@@ -58,6 +58,26 @@ class FlakeStatusTest(unittest.TestCase):
         self.assertEqual(result["class"], "error")
         self.assertIn("error al consultar Git", result["tooltip"])
 
+    def test_system_metadata_parsed_from_profile(self):
+        ver_file = self.home / "nixos-version"
+        ver_file.write_text("26.11.20261116.abc\n")
+        profile = self.home / "system"
+        os.symlink("system-42-link", profile)
+        self.env["NIXOS_VERSION_FILE"] = str(ver_file)
+        self.env["NIXOS_SYSTEM_PROFILE"] = str(profile)
+        tooltip = self.status()["tooltip"]
+        self.assertIn("NixOS 26.11", tooltip)
+        self.assertIn("Gen 42 | Kernel ", tooltip)
+        self.assertRegex(tooltip, r"Rebuild: \d{4}-\d{2}-\d{2} \d{2}:\d{2}")
+
+    def test_missing_system_profile_falls_back_to_unknown(self):
+        self.env["NIXOS_VERSION_FILE"] = str(self.home / "missing-ver")
+        self.env["NIXOS_SYSTEM_PROFILE"] = str(self.home / "missing-prof")
+        tooltip = self.status()["tooltip"]
+        self.assertIn("NixOS ?", tooltip)
+        self.assertIn("Gen ? | Kernel ", tooltip)
+        self.assertIn("Rebuild: ?", tooltip)
+
 
 if __name__ == "__main__":
     unittest.main()
