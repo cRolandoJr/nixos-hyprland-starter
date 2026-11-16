@@ -40,6 +40,13 @@ La selección de módulos compartidos vive en `modules/workstation.nix`. Los dat
 de usuario y hostname están en `personal.nix`; la configuración de Home Manager,
 en `home/user.nix`. Al cambiar hostname, renombrar también la carpeta de host.
 
+## Build del selector de wallpapers
+
+El workflow de CI incluye un job independiente que construye la derivación
+`pkgs/ryogami/default.nix`; sus pruebas Go se ejecutan en `buildPhase` antes
+de compilar. Una evaluación de NixOS no sustituye este build. Comprobar el
+resultado del job en GitHub Actions antes de considerar la integración validada.
+
 ## Vista previa
 
 Capturas reales tomadas de la VM instalada (con fondo propio generado para esta
@@ -89,8 +96,10 @@ No es un requisito para usar el starter.
 Las aportaciones propias del starter (configuración NixOS, scripts de soporte y
 documentación) se distribuyen bajo la licencia [MIT](LICENSE). Los componentes
 incorporados de terceros conservan sus respectivas licencias y avisos,
-detallados en [licencias y atribuciones](docs/LICENCIAS.md) (incluyendo
-`pkgs/ryogami/wall-ui/LICENSE` bajo MIT y `pkgs/ryogami/daemon` bajo GPL-3.0).
+detallados en [licencias y atribuciones](docs/LICENCIAS.md). Ryogami
+combina un daemon Go adaptado de Ryoku (GPL-3.0) con un selector QML
+derivado de skwd-wall de liixini (MIT); se incluyen sus textos de licencia,
+el NOTICE histórico y referencias verificables a revisiones de origen.
 
 Los 86 wallpapers de terceros se retiraron tanto del árbol actual como del
 historial Git para reducir el peso del repositorio y evitar redistribuir
