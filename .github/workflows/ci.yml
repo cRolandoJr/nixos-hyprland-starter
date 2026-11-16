@@ -52,9 +52,4 @@ jobs:
       - name: "Build vendored Ryogami package and run Go tests"
         run: |
           # The custom derivation runs 'go test ./...' in its buildPhase.
-          nix build --show-trace --print-build-logs --no-link --expr '
-            let
-              flake = builtins.getFlake (toString ./.);
-              pkgs = flake.inputs.nixpkgs.legacyPackages.x86_64-linux;
-            in pkgs.callPackage ./pkgs/ryogami/default.nix { }
-          '
+          nix build --show-trace --print-build-logs --no-link .#ryogami
