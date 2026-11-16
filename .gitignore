@@ -10,3 +10,7 @@ __pycache__/
 *.pyc
 *.qcow2
 *.iso
+
+# Fondos personales: no redistribuir imágenes sin permisos verificados.
+/dotfiles/Wallpapers/*
+!/dotfiles/Wallpapers/README.md

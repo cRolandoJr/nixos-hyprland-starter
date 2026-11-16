@@ -13,10 +13,12 @@
   system.stateVersion = "25.11";
 
   services.openssh = {
-    enable = true;
-    openFirewall = true;
+    # Acceso remoto opt-in: configurar una clave antes de habilitarlo.
+    enable = false;
+    openFirewall = false;
     settings = {
-      PasswordAuthentication = true;
+      PasswordAuthentication = false;
+      KbdInteractiveAuthentication = false;
       PermitRootLogin = "no";
     };
   };

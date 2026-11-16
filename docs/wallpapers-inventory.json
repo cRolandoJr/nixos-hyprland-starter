@@ -1,0 +1,518 @@
+[
+  {
+    "path": "dotfiles/Wallpapers/1412688.jpg",
+    "bytes": 244434,
+    "sha256": "18fcb255142e32daef1bf4d6f4efd57d0ed2ef8c0afc3959aa827095cff7faaa",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/Crater.png",
+    "bytes": 2759487,
+    "sha256": "3509c3eda62c84bd92c9e36e531e69875394ff9abd13aa4b56346dd5496125bd",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/Gemini_Generated_Image_m7y2i4m7y2i4m7y2(1).png",
+    "bytes": 8392434,
+    "sha256": "32b7209adb85446e66a039012ea2223cb17044e7c1275b5ecdbadebaca52f3ac",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/Gemini_Generated_Image_m7y2i4m7y2i4m7y2.png",
+    "bytes": 7924582,
+    "sha256": "5b627431028162f1f957e64837cd55d92e64ec22c16003da7f1fc6043470eb69",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/Linux-user-Room.png",
+    "bytes": 10078900,
+    "sha256": "8eb3997a54f9ca27bae5e62993d35e2428043fa46df961a986967b9fbbdcc123",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/River.png",
+    "bytes": 2719733,
+    "sha256": "f548da811a3fddd9ea0a62a12d8fb9b1d8bfa38420e2e52013bc1a855cf294e5",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/Space-Nebula.png",
+    "bytes": 27919638,
+    "sha256": "b6f231c0457933f1292fd30016ade3af07631e7a8892ad6a66cf7675f7444084",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/Staircase.png",
+    "bytes": 6783620,
+    "sha256": "84fff7777ef85eb6dcebf8e8c4ac2fe2f009c42da337c1ebfab9788cec33ecad",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/escape_velocity.jpg",
+    "bytes": 338310,
+    "sha256": "f6935a3b4412f11763779e6f59fc8b791b4c026cfa9f4e0d5a31972dd73ca708",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/firewatch.jpg",
+    "bytes": 1606153,
+    "sha256": "96b113cbf2f4bb5c52da532b8d683aeb9d63e5e67e695405dc585852d0347b6d",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/lanterns-series-hd-wallpaper-uhdpaper.com-895@5@r.jpg",
+    "bytes": 373671,
+    "sha256": "0fb042e81470353d58f32a630fd09e2bcade902328e87e564f3e4445bb096922",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/nixos-sddm-wallpaper.png",
+    "bytes": 234327,
+    "sha256": "cadefd4d3d588e9642c906bf8dc25023e9162cba529205462c81784e7fdaab56",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-1004017-colorized.png",
+    "bytes": 2208115,
+    "sha256": "ce3fa8dbf8edae90a815a8789df68f0bede7ab12654da661c87301c08cb71e2f",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-138032536_p0.jpg",
+    "bytes": 1664602,
+    "sha256": "ba84e0bbcc7374d95dbb133bad3ef3192345000333af580e68e000684d1c02e2",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-Angel1.png",
+    "bytes": 2743085,
+    "sha256": "bc308602cc60f5fd0ce673c6e3a9b1818d32a1fc40d4106274309d8a1ed36174",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-G5uBmitWkAAyk8s.jpg",
+    "bytes": 574052,
+    "sha256": "5a6934b46e0f762694b0df06c27d3d7495edcbba89985b088998dd9a4f811d33",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-211xrg.jpg",
+    "bytes": 2774793,
+    "sha256": "2e4907e2e1b05120c1e7968b6c4e08150fe2d10dcc0a8813899606969ffa7250",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-212ldx.png",
+    "bytes": 8863075,
+    "sha256": "69a5ec460d18695e9b93aab40ce756cd7a605827307364c4f32655fcc930b552",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-5yzd98.png",
+    "bytes": 4253475,
+    "sha256": "3f28e377ece0fe431c1933fb36eaaf72709944ff0af939b770357278c83578c6",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-6l21lx.png",
+    "bytes": 1051705,
+    "sha256": "aa76deb475477ba09153e22f1d39a0ade01a9f61d34c4fda2b78044f4862e826",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-6lyp2w.png",
+    "bytes": 2643821,
+    "sha256": "1e1fc28b21eda21dd00d6678edfb72e275634b8d404a02306f87d4c8ecbe0c1e",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-7jez79.jpg",
+    "bytes": 15712727,
+    "sha256": "5c7ea0bf62bbd20bd68db6a9e217bc00fbb615f743cda28dc1c38bd386cb7ccf",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-9o8v98.jpg",
+    "bytes": 269958,
+    "sha256": "36bebef604a3defda2be0937684db7bcadb975991147c62b70cd88f73abf9f7d",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-9orlxx.jpg",
+    "bytes": 306945,
+    "sha256": "76fb9bc433e242acb6f513ad1ff41c1ed57b4ad0f9a22b576fbb062fae24ba3c",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-ex.png",
+    "bytes": 552748,
+    "sha256": "e15f79f0cd38e5d29a496ffb0312bd8443b5b88a1b098155977721be87de50b5",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-jeej1q.jpg",
+    "bytes": 819347,
+    "sha256": "7b3dd005b3a4440a5fac01dcd0aeb6da5e6b7705958948486d492cc34ce26625",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-jeew7y.jpg",
+    "bytes": 7493310,
+    "sha256": "7d1f2c6b69b188974f0df5556b9acfc7fbe25c7e455243f9832e3b6df34d7c36",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-jevz8y.png",
+    "bytes": 1757909,
+    "sha256": "d9d9743cfe8dcba8b8226c13f7b860ba84bbe97f6ff7acc9264893387ac7045b",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-k8kk7d.png",
+    "bytes": 3693549,
+    "sha256": "5649bd4eb9a24382fec60e483e7b8db44a22cdbfc0f52bf5fd3270c2e3734d95",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-ml2wj8.jpg",
+    "bytes": 7852454,
+    "sha256": "b26f35e95dd08d59539be1ac7fb6e3412018bbe5993f8b25f98617525d6f0ee8",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-oglzx7.jpg",
+    "bytes": 541785,
+    "sha256": "340d5a634a930ca40518fdb9182797df477464ce99c3b5f22c1a6c3283793cf1",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-vpel8p.jpg",
+    "bytes": 13681299,
+    "sha256": "4d57346e7c7756b8b918e4cd621fcf192cde1ed066cc34485b8c18f80d9327ba",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-vpylkm.png",
+    "bytes": 3476989,
+    "sha256": "a6ab3929e52b28bbfe48b4f33eed54ae31f131600ff633cc70d3a5894105539f",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/ryoku-wallhaven-w55m8x.jpg",
+    "bytes": 3730751,
+    "sha256": "6409e10de29aa54a58f46ea071216a4f96f18facbba1960557ca9c6a21c4b0f1",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/samurai_strike.jpg",
+    "bytes": 1802463,
+    "sha256": "264e162940615eafcfcaf71749d26da0809387fc7e2bd3925e1d4fc2b29d0962",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/sekiro.jpg",
+    "bytes": 12459735,
+    "sha256": "f6febf78b61068602c52838c2dbb3ddf35000f46864fffee2f96ef9c12af7b12",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wall2.png",
+    "bytes": 28264194,
+    "sha256": "97bb1fed9b9e1b71fd8e814aec1bab71ddf5fbc6ffbd6a09c2d70b0881f8132e",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-13xmp1_1920x1080.png",
+    "bytes": 4329830,
+    "sha256": "8c8cf11bd829f09e6e7e142be670e41afba121b40956f0e6e75c52ff153c9ca7",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-1qqwq3_1920x1080.png",
+    "bytes": 5537251,
+    "sha256": "f96051c4e092e8b9285989c9f4db65914278e661424635118289b561cd22aa06",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-3ld3z6_1920x1080.png",
+    "bytes": 4436408,
+    "sha256": "81716b8a42ba315e93c7d1381d9786aafdeb4490225030068530ac71ead1c0f7",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-3qqdg6_1920x1080.png",
+    "bytes": 2653693,
+    "sha256": "24223f39f3d5addf196044476a179d8a44baded023ab35b0605e288edf1f49a9",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-3qqqkv_1920x1080.png",
+    "bytes": 4266786,
+    "sha256": "342432b6c3f58bbf3852dd361908c073da80540032519dafacbefe8246583c7d",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-3z8k8d_1920x1080.png",
+    "bytes": 3021521,
+    "sha256": "fd8bb5faee9120fc5882d2caddda05b2178d329e8a2774d6fb9fccebdce67801",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-3zlo63_1920x1080.png",
+    "bytes": 5006311,
+    "sha256": "2596d222eb394f4dece5099de4f67aaff1f4d906d3d183fb693c85199b1cba68",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-42jdw6_1920x1080.png",
+    "bytes": 3037837,
+    "sha256": "e2e769ea3c77e0cd43e4427642e0b4abd27e6ea56270ccd4d4c0c582130d8659",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-48l972_1920x1080.png",
+    "bytes": 4473467,
+    "sha256": "66b771759d2cac32c2a2127f38f5c40aa6c4df7783bc41f802a290d41d12df09",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-48xj11_1920x1080.png",
+    "bytes": 3671365,
+    "sha256": "63a689c94f511a18db874ab5bd99a27f11fa0908dd6822237c0d6d49b91751c2",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-5yy7k7_1920x1080.png",
+    "bytes": 3397009,
+    "sha256": "553e02b66522d7afeff888aa9061b079594502acbb28ccc5c5863ef46193495a",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-73k5ko_1920x1080.png",
+    "bytes": 2956835,
+    "sha256": "379bc588a723834a184e6fe3f89c16b1c237707a78e11e97420f71b5f776d320",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-7j6w7e_1920x1080.png",
+    "bytes": 2037581,
+    "sha256": "14fc7b4645b84043af9148d54939c15efef90a116ef5c4d0cf709fd27b077a93",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-e7615k_1920x1080.png",
+    "bytes": 2123301,
+    "sha256": "76bab7dde8c999b787f4dab91c0b037be179be758c86ceb887161752b9e9ba58",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-eo1918_1920x1080.png",
+    "bytes": 3219586,
+    "sha256": "fe3ee587c6ddd9194806af53d0c3791304dc24b009828ca3fdb831d53b6b38e6",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-gwqxkq_1920x1080.png",
+    "bytes": 2332439,
+    "sha256": "073a27ce6c180efa02f15405a1ad4c990721d2e519cabf0371cc7621367d4a86",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-j3pwvp_1920x1080.png",
+    "bytes": 2958317,
+    "sha256": "daf33eef4d67601a20f22b406b1b57217705aab35a9eb207b6de8990e0e0e49e",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-je1qxp_1920x1080.png",
+    "bytes": 4781364,
+    "sha256": "1b7d2c01361ce92273c507484173be5f059a2a54a27f8d9a0a35fd9da4ea2264",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-jel1jq.jpg",
+    "bytes": 4753754,
+    "sha256": "b2fb3126f76a39b3376906492496d3ddce285d26269312b172049f17f7ea28f9",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-jel33w.png",
+    "bytes": 3041199,
+    "sha256": "07568f1dddc9b0d3b6d4ed5a5f0e8ba285427171606993736aae3da9d9b9f6ee",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-k78g87_1920x1080.png",
+    "bytes": 1919382,
+    "sha256": "362eeee35a1a1f468fc5a743933e07e77727d3f0b47e825d72d87e516cff29a9",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-k7ggdm_1920x1080.png",
+    "bytes": 3509214,
+    "sha256": "462f526ed018b7736673082dde6c69d06c8a758bf93f56ef9c0496a7d9dde80f",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-l399wq_1920x1080.png",
+    "bytes": 1612956,
+    "sha256": "47fce3cbf2886e0757e28b69bbdac08737ebca843127fac7284a3ea7b4a3cd55",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-l892kp_1920x1080.png",
+    "bytes": 2894506,
+    "sha256": "08af10e0b2f4dba60e3076315a1c7ca431a5c61716fa5c261cd8ef10e8e371c4",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-ly2762_1920x1080.png",
+    "bytes": 1029461,
+    "sha256": "a8d3852aaccd955edfad3db47946a98b6491d79ccf268345c76ef96a2e6c3412",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-m3jx88_1920x1080.png",
+    "bytes": 3776747,
+    "sha256": "d5d9e6cfc83925228795adbead2a46802b7e9f87b8456b1e308193829f1a57b2",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-ml1m61_1920x1080.png",
+    "bytes": 382785,
+    "sha256": "cec9a33a0c276591e7c1289a9f0cc3d8ecedf96b509e47625194c1530a796bea",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-p9p1o9_1920x1080.png",
+    "bytes": 101580,
+    "sha256": "1b34da10e3b77ddc909bbb2f5429332f682ccfede5d5dbb0d5072ce891584023",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-q2w1kd_1920x1080.png",
+    "bytes": 100294,
+    "sha256": "a4898d9cc37b12fc8e17bfebc39d039a23f11d86c9c6009ed556770e24da41b0",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-qr2xj7_1920x1080.png",
+    "bytes": 2654700,
+    "sha256": "936fde77593375145b0c5a4f615acb986de2a97b05bb6031a6c485920cd88751",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-qrr5rr_1920x1080.png",
+    "bytes": 1662636,
+    "sha256": "15ccf49199b46a6116987535c8d3b724fe71fd475e9878ee66d0756299e32a91",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-vpgp58_1920x1080.png",
+    "bytes": 3106427,
+    "sha256": "5b4c8e8b6a444adb2e46f167b4804de1238674661b3a451455eca58abe4c388a",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-vpyekp_1920x1080.png",
+    "bytes": 957937,
+    "sha256": "4195007a7ecd382bf809970c707f71f834f1ea63d01342af600eff7bac6ee833",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-1p7w6w.png",
+    "bytes": 9894284,
+    "sha256": "ff1c80426a1a96133d8ea8c1b281a99447f3762a8d70351885bceea616bbca4b",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-4gjl67.jpg",
+    "bytes": 1051636,
+    "sha256": "152e9550bd92132489e440f83302d56b0272395a25cdd15b5985d4d870ab494b",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-8g9vo2.jpg",
+    "bytes": 5597466,
+    "sha256": "b52244262fa7c275d88b13a17798a4984bf59c5591fb6a14b0459ea1c505a8b6",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-96pzzd.png",
+    "bytes": 2453279,
+    "sha256": "61d9f5dc5289e30a871d7f77fece0054c9c04bc9f5ccb5369761a5a68524eb96",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-d8wk2g.jpg",
+    "bytes": 5097888,
+    "sha256": "fbbafee199e79b24851200b21afa45af4319c1db2bee6776f8c99d3c7e7c03a9",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-ey765l.jpg",
+    "bytes": 1417230,
+    "sha256": "3ccfd95ffe1bf3d47064d6d921fafe9e83b7ce83698b4032c1f66aa1100ca71c",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-gwmkpe.jpg",
+    "bytes": 16538248,
+    "sha256": "693242f1bea17875d0df875e9382da0c1bd90f239fe21806d07c2e6a6dbfa161",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-nkel56.jpg",
+    "bytes": 564564,
+    "sha256": "1b30e25147aa5d36b1b664c83d6a63069a94be8dd06148ded2ffff2f347f516e",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-vp5qg8.jpg",
+    "bytes": 15333966,
+    "sha256": "0982df0344a0cc5369190d8725a2452faa605b0e031381f99aa98ca596574220",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wallhaven-y877e7.jpg",
+    "bytes": 2352019,
+    "sha256": "cf549fc2be8690b1d584935ad61c9b9a1ea15d8f0b4d8ac3c770a66c9a86fcb2",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-wq8pq7_1920x1080.png",
+    "bytes": 2342938,
+    "sha256": "5ad4a8d2d5fc6f6315038dd9d43f917817fc1e747b9b3cd1b1e5b625682d86ba",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-x687ll_1920x1080.png",
+    "bytes": 1090549,
+    "sha256": "e08a81c30b4657f7badf82e31cb802bed8e39a9c0d6aba61d3d2a7c04ece489d",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-x81emv_1920x1080.png",
+    "bytes": 2096688,
+    "sha256": "af0c10ab185aa4ee19f99b1ae9ce81a606e9721eb52fba3064c82021423d8562",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-yqj53x_1920x1080.png",
+    "bytes": 1734433,
+    "sha256": "d64aabf51194c7e33284160d744d34e382bbbb5102bbba5cb7c7fcd54292565c",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-yxm3xk_1920x1080.png",
+    "bytes": 3663395,
+    "sha256": "8726cb584659dce83cf63058470e7e33f91a1a7636dd76108eea20c428313984",
+    "license": "unverified"
+  },
+  {
+    "path": "dotfiles/Wallpapers/wallhaven-zm825o_1920x1080.png",
+    "bytes": 3473593,
+    "sha256": "4a742605666d5d7e6c60da4d83ce742d63dec912a2cf41b4ab8031bde5933457",
+    "license": "unverified"
+  }
+]

@@ -248,11 +248,15 @@ No ejecutar disko: ya se particionó manualmente. Su módulo puede seguir import
 sin definir dispositivos. Los bloqueos de la plantilla obligan a adaptar cada destino.
 No usar el output `starter-vm`: corresponde a otro experimento de VM automática.
 
-El starter actual habilita SSH con contraseña y prohíbe login root por SSH mediante
-`services.openssh` en `hosts/equipo/default.nix`. Si no se desea acceso remoto,
-retirar ese bloque antes de instalar. No se copian claves privadas del autor.
+El sistema instalado deja SSH desactivado. Esto no cambia el SSH opcional de la
+ISO explicado antes. Para habilitarlo, seguir la sección SSH del paso 9 desde
+una consola local; nunca copiar claves privadas al repositorio.
 
-Comprobar los fondos y sus dos consumidores:
+La carpeta de fondos se entrega sin imágenes de terceros. Copiar al menos una
+imagen propia o con permisos comprobados dentro de `dotfiles/Wallpapers` si se
+quiere probar el selector. Sin imágenes, el listado vacío es esperado.
+
+Comprobar la carpeta y sus dos consumidores:
 
 ```bash
 ls /mnt/etc/nixos/starter/dotfiles/Wallpapers
@@ -417,6 +421,30 @@ Abrir el selector y elegir una imagen: comprobar listado y aplicación del fondo
 
 ### SSH y cambio de identidad tras instalar
 
+SSH está desactivado por defecto. Para habilitarlo, editar el bloque existente
+en `hosts/equipo/default.nix` y añadir la clave **pública** del cliente al usuario:
+
+```nix
+services.openssh = {
+  enable = true;
+  openFirewall = true;
+  settings = {
+    PasswordAuthentication = false;
+    KbdInteractiveAuthentication = false;
+    PermitRootLogin = "no";
+  };
+};
+users.users.nombre.openssh.authorizedKeys.keys = [
+  "REEMPLAZAR_POR_LA_CLAVE_PUBLICA_COMPLETA"
+];
+```
+
+Sustituir `nombre` por el usuario de `personal.nix` y el marcador por el contenido
+real de la clave pública (por ejemplo `id_ed25519.pub`). No pegar la clave privada.
+Aplicar el rebuild del paso 10 desde consola local, mantener esa consola abierta
+y comprobar el acceso desde una segunda terminal antes de depender de SSH.
+`openFirewall` abre el puerto SSH; habilitarlo sólo en la red prevista.
+
 Con SSH habilitado:
 
 ```bash
@@ -454,7 +482,9 @@ sudo nixos-rebuild switch \
 ```
 
 Sustituir usuario/host según lo elegido. `switch` construye y activa; comprobar la
-función cambiada después. Si se modificaron máscaras EFI, usar `findmnt /boot`.
+función cambiada después. Sudo solicita la contraseña del usuario también para
+rebuild y limpieza de generaciones. Si se modificaron máscaras EFI, usar
+`findmnt /boot`.
 Si el montaje no refleja la configuración y el rebuild terminó bien, reiniciar y
 volver a comprobar; no afirmar que se aplicó solo porque terminó el build.
 

@@ -4,6 +4,14 @@ Una base personalizable de NixOS con Hyprland, Home Manager y dotfiles incluidos
 Preparada a partir de mi escritorio y probada mediante una instalación
 manual en VM. Cada persona mantiene su configuración y hardware en su propia copia.
 
+## Empezar en una VM
+
+Probá primero con una ISO oficial y un disco virtual nuevo de 40 GiB. La guía
+recoge una instalación manual con 2 CPU, 4 GiB de RAM y swap temporal.
+
+**Atención: el particionado borra el disco elegido.** No ejecutar esos comandos
+en el anfitrión ni sobre un disco con datos que quieras conservar.
+
 ## Instalar
 
 Seguir la **[guía de instalación completa](docs/INSTALACION.md)** desde la ISO:
@@ -22,16 +30,31 @@ instalada es `~/projects/nix-config`, utilizada por los enlaces de Home Manager.
 ## Qué incluye
 
 - Hyprland, Waybar, Eww, mako, rofi y configuración de terminal/editor.
-- Ryogami y fondos en `dotfiles/Wallpapers`.
+- Ryogami para elegir tus propios fondos en `dotfiles/Wallpapers`.
 - Gaming: Steam y herramientas de rendimiento.
 - Virtualización: libvirt, QEMU/KVM, virt-manager y Podman.
-- SSH habilitado con contraseña para usuarios y acceso root por SSH deshabilitado.
+- SSH desactivado por defecto; activación opcional con claves públicas.
+- Sudo solicita contraseña, también para rebuild y limpieza de generaciones.
 
 La selección de módulos compartidos vive en `modules/workstation.nix`. Los datos
 de usuario y hostname están en `personal.nix`; la configuración de Home Manager,
 en `home/user.nix`. Al cambiar hostname, renombrar también la carpeta de host.
 
+## Vista previa
+
+Capturas reales tomadas de la VM instalada (con fondo propio generado para esta
+vista previa):
+
+![Escritorio con Waybar y reloj Eww](docs/screenshots/desktop.png)
+
+![Terminal Foot con fastfetch en NixOS](docs/screenshots/terminal.png)
+
+![Lanzador Rofi sobre Hyprland](docs/screenshots/launcher.png)
+
 ## Estado de verificación
+
+La instalación descrita a continuación es la prueba previa a los cambios de
+SSH, sudo y fondos. Esta revisión todavía requiere repetir el arranque en VM.
 
 Instalación guiada comprobada en VM x86_64 con UEFI, QXL sin OpenGL, 4 GiB de RAM
 más swap temporal durante la instalación y disco virtual de 40 GiB. Arrancaron
@@ -52,9 +75,24 @@ para reproducir las dependencias y revisar sus cambios antes de actualizar.
 No subir UUID ni claves privadas de otras personas. Las generaciones NixOS no
 revierten los dotfiles editables fuera del store: respaldarlos y versionarlos.
 
+## Perfil mínimo: evaluación
+
+Gaming y virtualización están separados en `modules/workstation.nix`, pero
+`home/user.nix` sigue incluyendo aplicaciones y herramientas del escritorio.
+Quitar dos imports no equivale a un perfil mínimo probado. Por ahora se conserva
+un solo perfil; una variante reducida tendría sentido cuando haya un usuario
+concreto y una selección de paquetes que se pueda instalar y verificar en VM.
+No es un requisito para usar el starter.
+
 ## Atribuciones y recursos
 
-Se conservan las licencias presentes en los componentes incorporados, incluida la
-licencia del selector en `pkgs/ryogami/wall-ui/LICENSE`. Los wallpapers incluyen
-recursos de terceros; su inclusión no cambia sus derechos ni implica que tengan
-una licencia común. No se declara una licencia global que sustituya las originales.
+Las aportaciones propias del starter (configuración NixOS, scripts de soporte y
+documentación) se distribuyen bajo la licencia [MIT](LICENSE). Los componentes
+incorporados de terceros conservan sus respectivas licencias y avisos,
+detallados en [licencias y atribuciones](docs/LICENCIAS.md) (incluyendo
+`pkgs/ryogami/wall-ui/LICENSE` bajo MIT y `pkgs/ryogami/daemon` bajo GPL-3.0).
+
+Los 86 wallpapers de terceros se retiraron tanto del árbol actual como del
+historial Git para reducir el peso del repositorio y evitar redistribuir
+imágenes sin permisos verificados. Añadí tus propios fondos siguiendo las
+instrucciones de [Wallpapers](dotfiles/Wallpapers/README.md).

@@ -89,21 +89,6 @@
     extraConfig = ''
       Defaults lecture=never
     '';
-    extraRules = [
-      {
-        users = [ username ];
-        commands = [
-          {
-            command = "/run/current-system/sw/bin/nixos-rebuild";
-            options = [ "NOPASSWD" ];
-          }
-          {
-            command = "/run/current-system/sw/bin/nix-collect-garbage";
-            options = [ "NOPASSWD" ];
-          }
-        ];
-      }
-    ];
   };
 
   environment.systemPackages = with pkgs; [
