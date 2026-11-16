@@ -41,3 +41,15 @@ jobs:
           nix eval --raw .#nixosConfigurations.starter-vm.config.system.build.toplevel.drvPath
           nix eval --raw .#nixosConfigurations.equipo.config.networking.hostName
 
+  ryogami-build:
+    name: "Build Ryogami (includes Go tests)"
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: "Install Nix"
+        uses: DeterminateSystems/nix-installer-action@main
+      - name: "Build vendored Ryogami package and run Go tests"
+        run: |
+          # The custom derivation runs 'go test ./...' in its buildPhase.
+          nix build --show-trace --print-build-logs --no-link .#ryogami
