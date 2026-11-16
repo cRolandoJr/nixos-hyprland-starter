@@ -71,7 +71,6 @@ in
       # Mismo criterio que nix.gc: `-d` borraba todas las generaciones y dejaba sin rollback.
       gc = "sudo nix-collect-garbage --delete-older-than 7d && nix-collect-garbage --delete-older-than 7d";
 
-
       # uhid: mouse como HID físico. shortcut-mod=lsuper: no choca con alt_shift_toggle.
       # render-driver=opengl: evita stutter de SDL3 en Wayland.
       scrcpy = "scrcpy --mouse=uhid --shortcut-mod=lsuper --no-audio --max-fps=60 --render-driver=opengl";

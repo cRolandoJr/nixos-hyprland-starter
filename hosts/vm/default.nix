@@ -1,4 +1,12 @@
-{ config, lib, pkgs, modulesPath, username, starterSource, ... }:
+{
+  config,
+  lib,
+  pkgs,
+  modulesPath,
+  username,
+  starterSource,
+  ...
+}:
 
 {
   imports = [
@@ -42,16 +50,18 @@
   # enlace al directorio del anfitrión. Se conserva en los siguientes arranques.
   system.activationScripts.starterRepo = {
     deps = [ "users" ];
-    text = let
-      home = config.users.users.${username}.home;
-      group = config.users.users.${username}.group;
-    in ''
-      if [ ! -e "${home}/projects/nix-config" ]; then
-        ${pkgs.coreutils}/bin/mkdir -p "${home}/projects"
-        ${pkgs.coreutils}/bin/cp -R ${starterSource}/. "${home}/projects/nix-config"
-        ${pkgs.coreutils}/bin/chmod -R u+w "${home}/projects/nix-config"
-        ${pkgs.coreutils}/bin/chown -R ${username}:${group} "${home}/projects"
-      fi
-    '';
+    text =
+      let
+        home = config.users.users.${username}.home;
+        group = config.users.users.${username}.group;
+      in
+      ''
+        if [ ! -e "${home}/projects/nix-config" ]; then
+          ${pkgs.coreutils}/bin/mkdir -p "${home}/projects"
+          ${pkgs.coreutils}/bin/cp -R ${starterSource}/. "${home}/projects/nix-config"
+          ${pkgs.coreutils}/bin/chmod -R u+w "${home}/projects/nix-config"
+          ${pkgs.coreutils}/bin/chown -R ${username}:${group} "${home}/projects"
+        fi
+      '';
   };
 }

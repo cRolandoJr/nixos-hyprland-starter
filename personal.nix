@@ -1,4 +1,4 @@
 {
-    username = "nombre";
-    hostname = "equipo";
+  username = "nombre";
+  hostname = "equipo";
 }
