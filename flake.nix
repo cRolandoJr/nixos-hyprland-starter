@@ -106,6 +106,9 @@
       # Mismo paquete que el hook de pre-commit, para que no formateen distinto.
       formatter.${system} = pkgs.nixfmt;
 
+      # Paquete construido por el CI; las pruebas Go corren dentro de buildPhase.
+      packages.${system}.ryogami = pkgs.callPackage ./pkgs/ryogami/default.nix { };
+
       checks.${system} = { inherit pre-commit-check; };
     };
 }
