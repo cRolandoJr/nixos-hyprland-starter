@@ -34,10 +34,10 @@ jobs:
         uses: DeterminateSystems/nix-installer-action@main
       - name: "Setup Magic Nix Cache"
         uses: DeterminateSystems/magic-nix-cache-action@main
-      - name: "Nix Flake Check"
-        run: nix flake check
+      - name: "Pre-commit checks (nixfmt, statix, deadnix)"
+        run: nix build --no-link .#checks.x86_64-linux.pre-commit-check
       - name: "Evaluate NixOS hosts"
         run: |
-          nix eval --raw .#nixosConfigurations.equipo.config.system.build.toplevel.drvPath
           nix eval --raw .#nixosConfigurations.starter-vm.config.system.build.toplevel.drvPath
+          nix eval --raw .#nixosConfigurations.equipo.config.networking.hostName
 
