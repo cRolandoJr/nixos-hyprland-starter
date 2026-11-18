@@ -265,7 +265,6 @@ in
         "spa"
       ];
     })
-    imagemagick
 
     # Multimedia
     vlc
@@ -515,7 +514,8 @@ in
       # El daemon NO expande `~`: con "~/Wallpapers" devuelve cero wallpapers y
       # no avisa. Por eso la ruta se interpola absoluta desde Nix.
       ${pkgs.jq}/bin/jq '.paths.wallpaper = "${config.home.homeDirectory}/projects/nix-config/dotfiles/Wallpapers"
-        | .features.matugen = false' "$daemon_cfg" > "$daemon_cfg.new"
+        | .features.matugen = false
+        | .features.steam = false' "$daemon_cfg" > "$daemon_cfg.new"
       mv "$daemon_cfg.new" "$daemon_cfg"
 
       # matugen en false a proposito: sus plantillas escriben temas en
@@ -524,6 +524,7 @@ in
       ${pkgs.jq}/bin/jq '.paths.wallpaper = "${config.home.homeDirectory}/projects/nix-config/dotfiles/Wallpapers"
         | .components.wallpaperSelector.displayMode = "slices"
         | .features.matugen = false
+        | .features.steam = false
         | .transition = {enabled: true, shader: "random", durationMs: 600}' \
         "$picker_cfg" > "$picker_cfg.new"
       mv "$picker_cfg.new" "$picker_cfg"
