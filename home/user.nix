@@ -2,12 +2,17 @@
   config,
   pkgs,
   lib,
+  inputs,
   username,
   ...
 }:
 
 let
   ryogami = pkgs.callPackage ../pkgs/ryogami { };
+  hyprcapture = import ../pkgs/hyprcapture {
+    inherit pkgs;
+    src = inputs.hyprcapture;
+  };
 in
 {
   home.username = username;
@@ -238,7 +243,6 @@ in
     })
     eww
     mako
-    awww
     hypridle
     hyprlock
     swayosd
@@ -252,10 +256,15 @@ in
     yazi
     xh
 
-    # Capturas de pantalla
-    grim
-    slurp
-    satty
+    # Capturas de pantalla y grabación
+    hyprcapture
+    gpu-screen-recorder
+    (tesseract.override {
+      enableLanguages = [
+        "eng"
+        "spa"
+      ];
+    })
     imagemagick
 
     # Multimedia
@@ -441,6 +450,14 @@ in
   # markdownlint-cli lee ~/.markdownlintrc (verificado): apaga largo de línea y estilo de tablas.
   home.file.".markdownlintrc".source =
     config.lib.file.mkOutOfStoreSymlink "${config.home.homeDirectory}/projects/nix-config/dotfiles/markdownlint/.markdownlintrc";
+
+  home.file.".local/lib/hyprland/libhyprcapture.so".source = "${hyprcapture}/lib/libhyprcapture.so";
+
+  home.file.".local/lib/hyprland/libhyprfocus.so".source =
+    "${pkgs.hyprlandPlugins.hyprfocus}/lib/libhyprfocus.so";
+
+  home.file.".local/lib/hyprland/libhyprbars.so".source =
+    "${pkgs.hyprlandPlugins.hyprbars}/lib/libhyprbars.so";
 
   xdg.desktopEntries."org.telegram.desktop" = {
     name = "Telegram";

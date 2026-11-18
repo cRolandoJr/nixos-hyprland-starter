@@ -23,6 +23,11 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
+    hyprcapture = {
+      url = "github:gfhdhytghd/HyprCapture/7ebc3f36f782d7b62ad7f20906f7c921aa27231f";
+      flake = false;
+    };
+
   };
 
   outputs =

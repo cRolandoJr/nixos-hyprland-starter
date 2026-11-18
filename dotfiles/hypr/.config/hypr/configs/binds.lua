@@ -1,22 +1,6 @@
--- ╔════════════════════════════════════════════════╗
--- ║              KEYBINDINGS (binds.lua)            ║
--- ╚════════════════════════════════════════════════╝
--- Dos cambios de forma respecto a hyprlang (los ejemplos de la doc no aplican):
---   * las teclas van en UN string con " + ": "SUPER + SHIFT + Return"
---   * los dispatchers son funciones tipadas de hl.dsp.*, y se pasan LLAMADAS
--- Los comandos con comillas dobles van en [[ ]] para no escaparlas.
---
--- Todos los binds llevan `description`. No es decorativo: con la config en Lua,
--- `hyprctl binds` reporta `dispatcher: __lua` + un ID de función en vez de la
--- acción, así que la description es lo ÚNICO legible que sobrevive — y es de
--- donde el keybinds-viewer (SUPER+K) saca el texto que muestra.
+-- Keybindings (binds.lua)
+-- Todos llevan `description` (lo lee keybinds-viewer en SUPER+K).
 
--- --- VARIABLES PRINCIPALES --- (eran $vars de hyprlang)
--- `uwsm app --` le da a cada app su propio scope bajo user-1000.slice, igual que
--- en autostart.lua. Sin eso hereda el cgroup del compositor, que queda FUERA de la
--- sesión de logind: polkit no puede resolver la sesión y toda autenticación gráfica
--- falla en silencio (Etcher, powerprofilesctl). rofi lo necesita especialmente,
--- porque lo que lanza desde ahí hereda su cgroup.
 local function app(cmd)
 	return "uwsm app -- " .. cmd
 end
@@ -81,11 +65,6 @@ hl.bind("SUPER + SHIFT + M", hl.dsp.exit(), { description = "Salir de Hyprland" 
 hl.bind("SUPER + F", hl.dsp.window.fullscreen(), { description = "Pantalla completa" })
 hl.bind("SUPER + V", hl.dsp.window.float({ action = "toggle" }), { description = "Alternar flotante" })
 hl.bind("SUPER + P", hl.dsp.window.pseudo(), { description = "Alternar pseudo-tiling" })
-hl.bind(
-	"SUPER + D",
-	hl.dsp.exec_cmd("~/.config/hypr/scripts/toggle_float.sh"),
-	{ description = "Flotante con tamaño y centrado fijos" }
-)
 hl.bind(
 	"SUPER + CTRL + N",
 	hl.dsp.exec_cmd("~/.config/hypr/scripts/toggle-nightlight.sh"),
@@ -185,7 +164,7 @@ hl.define_submap("resize", function()
 end)
 
 -- Submap MOVE: mover ventana flotante con flechas (espejo del resize).
--- `moveactive` solo afecta a ventanas flotantes (foot_float, satty, blueman, pavucontrol).
+-- `moveactive` solo afecta a ventanas flotantes (foot_float, blueman, pavucontrol).
 -- Para tiled, seguí usando SUPER+SHIFT+flecha (swap).
 hl.bind("SUPER + G", hl.dsp.submap("move"), { description = "Modo mover ventana flotante (flechas; Esc sale)" })
 
@@ -284,22 +263,19 @@ hl.bind(
 )
 hl.bind("xf86audioprev", hl.dsp.exec_cmd("playerctl previous"), { locked = true, description = "Pista anterior" })
 
--- --- CAPTURAS DE PANTALLA ---
-hl.bind("Print", hl.dsp.exec_cmd("grim - | wl-copy"), { description = "Captura de pantalla completa al portapapeles" })
+-- --- CAPTURAS DE PANTALLA (HyprCapture) ---
+hl.bind("Print", function()
+	hl.plugin.hyprcapture.open("fullscreen")
+end, { description = "Captura de pantalla completa (HyprCapture)" })
 
--- -b 00000050: dim negro sutil (~31% alpha) en lugar del gris fuerte default.
--- -w 0: sin borde (el default es marco negro 2px).
-hl.bind(
-	"SUPER + SHIFT + C",
-	hl.dsp.exec_cmd([[grim -g "$(slurp -b 00000050 -w 0)" - | wl-copy]]),
-	{ description = "Captura de región al portapapeles" }
-)
+hl.bind("SUPER + SHIFT + C", function()
+	hl.plugin.hyprcapture.open("region")
+end, { description = "Captura de región (HyprCapture)" })
 
--- --early-exit cierra satty automáticamente al copiar/guardar (Ctrl+Enter en la UI).
-hl.bind(
-	"SUPER + CTRL + C",
-	hl.dsp.exec_cmd(
-		[[sh -c 'dir="$HOME/.local/share/screenshots"; mkdir -p "$dir"; grim -g "$(slurp -b 00000050 -w 0)" - | satty --filename - --output-filename "$dir/$(date +%Y%m%d-%H%M%S)-region.png" --early-exit --copy-command wl-copy']]
-	),
-	{ description = "Captura de región, anotar y guardar (satty)" }
-)
+hl.bind("SUPER + CTRL + C", function()
+	hl.plugin.hyprcapture.open_editor("region")
+end, { description = "Captura de región y anotar (HyprCapture)" })
+
+hl.bind("ALT + Print", function()
+	hl.plugin.hyprcapture.record_toggle()
+end, { description = "Grabar pantalla: iniciar o detener (HyprCapture)" })

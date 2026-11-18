@@ -14,16 +14,6 @@ hl.window_rule({
 })
 
 hl.window_rule({
-    name     = "fix_xwaylandvideobridge",
-    match    = { class = "^(xwaylandvideobridge)$" },
-    opacity  = 0.0,
-    no_anim  = true,
-    no_focus = true,
-    max_size = { 1, 1 },
-    no_blur  = true,
-})
-
-hl.window_rule({
     name   = "center_vscode_dialogs",
     match  = { class = "^(Code)$", title = "^(Visual Studio Code)$" },
     center = true,
@@ -34,14 +24,6 @@ hl.window_rule({
     match  = { title = "^(OpenSSH Authentication Passphrase request)$" },
     float  = true,
     size   = { 480, 200 },
-    center = true,
-})
-
-hl.window_rule({
-    name   = "satty_float",
-    match  = { class = [[^(com\.gabm\.satty)$]] },
-    float  = true,
-    size   = { 1280, 720 },
     center = true,
 })
 
@@ -62,6 +44,14 @@ hl.window_rule({
 })
 
 hl.window_rule({
+    name   = "portal_gtk_float",
+    match  = { class = "^(xdg-desktop-portal-gtk)$" },
+    float  = true,
+    size   = { 960, 640 },
+    center = true,
+})
+
+hl.window_rule({
     name      = "spotify_scratch",
     match     = { class = "^(Spotify|spotify)$" },
     workspace = "special:music silent",
@@ -70,18 +60,16 @@ hl.window_rule({
 -- Los juegos (Proton/XWayland) recrean su ventana al pasar a fullscreen y
 -- caen en el monitor enfocado; anclarlos al HDMI evita tener que moverlos.
 hl.window_rule({
-    name    = "steam_games_hdmi",
-    match   = { class = [[^(steam_app_\d+)$]] },
-    monitor = "HDMI-A-1",
+    name             = "steam_games_hdmi",
+    match            = { class = [[^(steam_app_\d+)$]] },
+    monitor          = "HDMI-A-1",
+    render_unfocused = true,
 })
 
--- --- REGLAS ANÓNIMAS (eran de una sola línea en hyprlang) ---
-
--- VSCode ligeramente transparente
+-- --- REGLAS ANÓNIMAS ---
 hl.window_rule({ match = { class = "^(code)$" },        opacity = "0.97 0.97" })
--- Waypaper siempre flotante
-hl.window_rule({ match = { class = "^(waypaper)$" },    float   = true })
 hl.window_rule({ match = { class = "^(firefox)$" },     opacity = "0.98 0.95" })
+hl.window_rule({ match = { float = false }, ["hyprbars:no_bar"] = true })
 
 -- --- REGLAS DE CAPAS (Layer Rules) ---
 -- Look & feel para popups que no son ventanas (mako, rofi, hub eww).
@@ -98,8 +86,3 @@ hl.layer_rule({ match = { namespace = "^(rofi)$" }, blur = true, ignore_alpha = 
 -- rectangular creaba un halo gris visible en las esquinas redondeadas.
 -- El defwindow hub usa :namespace "hub" en eww.yuck — esto lo matchea.
 hl.layer_rule({ match = { namespace = "^(hub)$" }, ignore_alpha = 0.0 })
-
--- slurp (overlay de selección) — sin animaciones. Hyprland >=0.55 aplica
--- fade-out al cerrar slurp; grim dispara antes de que termine y captura
--- restos del dim/borde. Sin anim, slurp desaparece instantáneo.
-hl.layer_rule({ match = { namespace = "^(selection)$" }, no_anim = true })

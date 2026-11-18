@@ -36,12 +36,10 @@ window#waybar {
 }
 
 /* ========= LEFT: ONE island container ========= */
-/* Mismo molde que .modules-right. mpris no entra: es el unico que aparece y
-   desaparece, y adentro haria respirar la capsula al arrancar la musica. */
 #sistema {
   background: @island-bg;
   margin: 2px 0;                  /* pegado al borde izquierdo del bar */
-  padding: 0 8px;                 /* sin vertical: sumaba 4px al alto del bar */
+  padding: 2px 8px;
   min-height: 20px;
   border-radius: 14px;            /* capsule completa (Variante A) */
   border: 1px solid @border;
@@ -77,7 +75,7 @@ window#waybar {
    GTK estira los botones al alto del island, y lo que lo frena es el margin
    vertical de `#workspaces button` (medido: 12x12 inactivo, 16 de alto activo). */
 #sistema > widget > #workspaces {
-  padding: 2px 6px;
+  padding: 0 6px;
 }
 
 /* Logo NixOS — primer elemento del island */
@@ -222,21 +220,29 @@ window#waybar {
   to { color: rgba(248, 113, 113, 0.40); }
 }
 
-/* Layout de teclado — color por clase que emite waybar-layout.sh */
-#custom-layout {
+/* Layout de teclado nativo (hyprland/language) */
+#sistema > widget > #language {
   color: @fg;
-  padding: 0 6px;
+  padding: 2px 8px 0 8px;
+  margin: 0;
   min-width: 22px;
 }
-#custom-layout.us      { color: @lang-us; }
-#custom-layout.es      { color: @lang-es; }
-#custom-layout.unknown { color: @fg-dim; }
 
-/* Leader del grupo plegable: sin dato, solo superficie de hover. Se enciende
- * al apuntarlo para que se lea como control y no como adorno. */
+/* Submap activo (resize / move) */
+#submap {
+  background: @island-bg;
+  color: @warn;
+  margin: 2px 0 2px 8px;
+  padding: 0 10px;
+  min-height: 20px;
+  border-radius: 14px;
+  border: 1px solid @warn;
+}
 
-#custom-expand:hover {
-  color: @accent;
+/* Indicador de privacidad (micrófono / pantalla compartida) */
+#privacy {
+  color: @crit;
+  padding: 0 6px;
 }
 
 /* Systray (blueman, telegram, kdeconnect…) */
