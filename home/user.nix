@@ -31,9 +31,18 @@ in
       pull.rebase = true;
       push.autoSetupRemote = true;
       core = {
-        editor = "vim";
+        editor = "nvim";
         excludesfile = "${config.home.homeDirectory}/.gitignore_global";
       };
+    };
+  };
+
+  programs.delta = {
+    enable = true;
+    enableGitIntegration = true;
+    options = {
+      navigate = true;
+      side-by-side = true;
     };
   };
 
@@ -134,6 +143,21 @@ in
   programs.fzf = {
     enable = true;
     enableZshIntegration = false;
+  };
+
+  programs.zoxide = {
+    enable = true;
+    enableZshIntegration = true;
+  };
+
+  programs.atuin = {
+    enable = true;
+    enableZshIntegration = true;
+    flags = [ "--disable-up-arrow" ];
+    settings = {
+      auto_sync = false;
+      update_check = false;
+    };
   };
 
   programs.firefox = {
@@ -358,6 +382,7 @@ in
     typescript-language-server
     vscode-langservers-extracted
     yaml-language-server
+    nixd
     bash-language-server
     lua-language-server
 
@@ -457,6 +482,41 @@ in
 
   home.file.".local/lib/hyprland/libhyprbars.so".source =
     "${pkgs.hyprlandPlugins.hyprbars}/lib/libhyprbars.so";
+
+  # El .desktop por defecto de nixpkgs usa `Terminal=true` y `Exec=nvim %F`, lo que
+  # hace que launchers/file managers caigan en `xterm` (fondo blanco y fuente fea).
+  # Forzamos `foot` explícitamente para que siempre abra con tu tema y fuente.
+  xdg.desktopEntries.nvim = {
+    name = "Neovim";
+    genericName = "Text Editor";
+    comment = "Edit text files";
+    exec = "foot -e nvim %F";
+    icon = "nvim";
+    terminal = false;
+    type = "Application";
+    categories = [
+      "Utility"
+      "TextEditor"
+      "Development"
+    ];
+    mimeType = [
+      "text/english"
+      "text/plain"
+      "text/x-makefile"
+      "text/x-c++hdr"
+      "text/x-c++src"
+      "text/x-chdr"
+      "text/x-csrc"
+      "text/x-java"
+      "text/x-moc"
+      "text/x-pascal"
+      "text/x-tcl"
+      "text/x-tex"
+      "application/x-shellscript"
+      "text/x-c"
+      "text/x-c++"
+    ];
+  };
 
   xdg.desktopEntries."org.telegram.desktop" = {
     name = "Telegram";
